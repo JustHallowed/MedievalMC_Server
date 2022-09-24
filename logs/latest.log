@@ -696,3 +696,888 @@ BCLib - The End BiomeSource (1aab2f09)
 [12:29:56] [main/INFO]: Loaded EveryCompat Architects Palette Module
 [12:29:56] [main/INFO]: Loaded EveryCompat Farmersdelight Module
 [12:29:56] [main/INFO]: Farmer's Knives loaded!
+[12:29:56] [main/INFO]: Registering C2S receiver with id ftbchunks:request_map_data
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbchunks:sync_tx
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:create_object
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbteams:send_message
+[12:29:57] [main/INFO]: Registering C2S receiver with id ftbteams:create_party
+[12:29:57] [main/INFO]: Is initializing.
+[12:29:57] [main/INFO]: Registering new static map marker with id [pinlib:default]
+[12:29:57] [main/INFO]: Registering new dynamic map marker with id [fwaystones:waystone]
+[12:29:57] [main/INFO]: Has successfully been initialized.
+[12:29:57] [main/INFO]: If you have any issues or questions, feel free to join our Discord: https://discord.gg/vMjzgS4.
+[12:29:57] [main/INFO]: Beginning More Geodes initialization
+[12:29:57] [main/ERROR]: Could not load More Geodes config, using default config instead. Failed with exception: java.io.FileNotFoundException: .\config\geodes.properties (The system cannot find the file specified)
+[12:29:57] [main/INFO]: More Geodes initialized!
+[12:29:58] [main/INFO]: Constructing common components for mod horseexpert
+[12:29:58] [main/INFO]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[12:29:58] [main/INFO]: Mod initialized!
+[12:29:58] [main/INFO]: Initializing ServerSide Packet Registries
+[12:29:58] [main/INFO]: Processing 4 KiwiModule annotations
+[12:29:59] [main/INFO]: Module [kiwi:contributors] initialized
+[12:29:59] [main/INFO]: Module [passablefoliage:core] initialized
+[12:29:59] [main/INFO]: Module [kiwi:data] initialized
+[12:29:59] [main/INFO]:     recipe_serializer: 3
+[12:29:59] [main/INFO]: Module [passablefoliage:enchantment] initialized
+[12:29:59] [main/INFO]:     enchantment: 1
+[12:29:59] [main/INFO]: Compression will use Java, encryption will use Java
+[12:29:59] [main/INFO]: Constructing common components for mod magnumtorch
+[12:30:00] [main/INFO]: [STDOUT]: D:\Servers\Minecraft\MedievalMC_Server\config
+[12:30:00] [main/INFO]: [STDOUT]: Registering ModEnchantments for medievalorigins
+[12:30:00] [main/INFO]: Hello Fabric world!
+[12:30:00] [main/INFO]: Definitely not up to no good
+[12:30:00] [main/INFO]: [Mythic Metals] Have fun using Origins!
+[12:30:00] [main/INFO]: [Mythic Metals] Mythic Metals is now initialized.
+[12:30:00] [main/INFO]: Registering Mod Items for mythicupgrades
+[12:30:00] [main/INFO]: Registering ModBlocks formythicupgrades
+[12:30:01] [main/INFO]: near features initialized.
+[12:30:01] [main/INFO]: Let there be nears!
+[12:30:01] [main/INFO]: KONNICHIWA ZA WARUDO!
+[12:30:01] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[12:30:01] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[12:30:01] [main/INFO]: Origins 1.7.0 is initializing. Have fun!
+[12:30:01] [main/INFO]: loading json file and contents for paintings.
+[12:30:01] [main/INFO]: **Paintings++ no longer copies the base file outside if the mod. **
+[12:30:01] [main/INFO]: Loaded json painting abstract_blue , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting abstract_rainbow , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting abstract_red , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting abstract_sunset , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting arachnophobe , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting barn_owl , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting big_z , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting blue_bird , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting bluesclues , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting borgia , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting cane , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting cat_black , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting cat_gray , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting cat_orange , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting cat , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting colorful_squares , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting crest , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting danger_zone , 32 x 32
+[12:30:01] [main/INFO]: Loaded json painting decorative_gun , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting exit_down , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting exit_up , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting exit_left , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting exit_right , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_bat , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_chicken , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_cow , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_creeper , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_dog , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_enderman , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_pig , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_pigman , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_silverfish , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_skeleton , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_squid , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting face_zombie , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting fishes , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting flowers , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting fruits , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting ghost , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting glowlamp , 32 x 32
+[12:30:01] [main/INFO]: Loaded json painting glowstone_hourglass , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting iluvmc , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting link , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting mine_prosperity , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting no_trespassing_for_mobs , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting ocelot , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting penguin , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting pig_on_a_cliff , 32 x 32
+[12:30:01] [main/INFO]: Loaded json painting pkmn_blue , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting pkmn_red , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting pkmn_green , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting plains_hut , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting portrait_2 , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting portrait , 32 x 32
+[12:30:01] [main/INFO]: Loaded json painting prison , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting prosperity , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting rest , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting skeleton , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting sky , 32 x 32
+[12:30:01] [main/INFO]: Loaded json painting skyblock , 32 x 32
+[12:30:01] [main/INFO]: Loaded json painting snake , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting snow_landscape , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting subaraki , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting synth_city , 16 x 16
+[12:30:01] [main/INFO]: Loaded json painting tapistry_a , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting tapistry_b , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting tapistry_purple , 16 x 32
+[12:30:01] [main/INFO]: Loaded json painting torched , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting waterfall , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting whale , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting wheat_field , 32 x 16
+[12:30:01] [main/INFO]: Loaded json painting wolf_in_wheat , 32 x 16
+[12:30:01] [main/WARN]: ************************************
+[12:30:01] [main/WARN]: !*!*!*!*!
+[12:30:01] [main/ERROR]: A fatal error occurred reading the resource pack directory
+[12:30:01] [main/ERROR]: SKIPPING ENTIRE PROCESS
+[12:30:01] [main/WARN]: !*!*!*!*!
+[12:30:01] [main/WARN]: ************************************
+[12:30:01] [main/WARN]: java.nio.file.NoSuchFileException: .\resourcepacks
+[12:30:01] [main/INFO]: Registered painting abstract_blue
+[12:30:01] [main/INFO]: Registered painting abstract_rainbow
+[12:30:01] [main/INFO]: Registered painting abstract_red
+[12:30:01] [main/INFO]: Registered painting abstract_sunset
+[12:30:01] [main/INFO]: Registered painting arachnophobe
+[12:30:01] [main/INFO]: Registered painting barn_owl
+[12:30:01] [main/INFO]: Registered painting big_z
+[12:30:01] [main/INFO]: Registered painting blue_bird
+[12:30:01] [main/INFO]: Registered painting bluesclues
+[12:30:01] [main/INFO]: Registered painting borgia
+[12:30:01] [main/INFO]: Registered painting cane
+[12:30:01] [main/INFO]: Registered painting cat_black
+[12:30:01] [main/INFO]: Registered painting cat_gray
+[12:30:01] [main/INFO]: Registered painting cat_orange
+[12:30:01] [main/INFO]: Registered painting cat
+[12:30:01] [main/INFO]: Registered painting colorful_squares
+[12:30:01] [main/INFO]: Registered painting crest
+[12:30:01] [main/INFO]: Registered painting danger_zone
+[12:30:01] [main/INFO]: Registered painting decorative_gun
+[12:30:01] [main/INFO]: Registered painting exit_down
+[12:30:01] [main/INFO]: Registered painting exit_up
+[12:30:01] [main/INFO]: Registered painting exit_left
+[12:30:01] [main/INFO]: Registered painting exit_right
+[12:30:01] [main/INFO]: Registered painting face_bat
+[12:30:01] [main/INFO]: Registered painting face_chicken
+[12:30:01] [main/INFO]: Registered painting face_cow
+[12:30:01] [main/INFO]: Registered painting face_creeper
+[12:30:01] [main/INFO]: Registered painting face_dog
+[12:30:01] [main/INFO]: Registered painting face_enderman
+[12:30:01] [main/INFO]: Registered painting face_pig
+[12:30:01] [main/INFO]: Registered painting face_pigman
+[12:30:01] [main/INFO]: Registered painting face_silverfish
+[12:30:01] [main/INFO]: Registered painting face_skeleton
+[12:30:01] [main/INFO]: Registered painting face_squid
+[12:30:01] [main/INFO]: Registered painting face_zombie
+[12:30:01] [main/INFO]: Registered painting fishes
+[12:30:01] [main/INFO]: Registered painting flowers
+[12:30:01] [main/INFO]: Registered painting fruits
+[12:30:01] [main/INFO]: Registered painting ghost
+[12:30:01] [main/INFO]: Registered painting glowlamp
+[12:30:01] [main/INFO]: Registered painting glowstone_hourglass
+[12:30:01] [main/INFO]: Registered painting iluvmc
+[12:30:01] [main/INFO]: Registered painting link
+[12:30:01] [main/INFO]: Registered painting mine_prosperity
+[12:30:01] [main/INFO]: Registered painting no_trespassing_for_mobs
+[12:30:01] [main/INFO]: Registered painting ocelot
+[12:30:01] [main/INFO]: Registered painting penguin
+[12:30:01] [main/INFO]: Registered painting pig_on_a_cliff
+[12:30:01] [main/INFO]: Registered painting pkmn_blue
+[12:30:01] [main/INFO]: Registered painting pkmn_red
+[12:30:01] [main/INFO]: Registered painting pkmn_green
+[12:30:01] [main/INFO]: Registered painting plains_hut
+[12:30:01] [main/INFO]: Registered painting portrait_2
+[12:30:01] [main/INFO]: Registered painting portrait
+[12:30:01] [main/INFO]: Registered painting prison
+[12:30:01] [main/INFO]: Registered painting prosperity
+[12:30:01] [main/INFO]: Registered painting rest
+[12:30:01] [main/INFO]: Registered painting skeleton
+[12:30:01] [main/INFO]: Registered painting sky
+[12:30:01] [main/INFO]: Registered painting skyblock
+[12:30:01] [main/INFO]: Registered painting snake
+[12:30:01] [main/INFO]: Registered painting snow_landscape
+[12:30:01] [main/INFO]: Registered painting subaraki
+[12:30:01] [main/INFO]: Registered painting synth_city
+[12:30:01] [main/INFO]: Registered painting tapistry_a
+[12:30:01] [main/INFO]: Registered painting tapistry_b
+[12:30:01] [main/INFO]: Registered painting tapistry_purple
+[12:30:01] [main/INFO]: Registered painting torched
+[12:30:01] [main/INFO]: Registered painting waterfall
+[12:30:01] [main/INFO]: Registered painting whale
+[12:30:01] [main/INFO]: Registered painting wheat_field
+[12:30:01] [main/INFO]: Registered painting wolf_in_wheat
+[12:30:02] [main/ERROR]: Failed to load config 'class com.github.clevernucleus.playerex.config.ConfigImpl', using default!
+me.shedaniel.autoconfig.serializer.ConfigSerializer$SerializationException: com.google.gson.JsonSyntaxException: java.lang.NumberFormatException: Expected an int but was 0.5 at line 5 column 31 path $.skillPointsPerLevelUp
+	at me.shedaniel.autoconfig.serializer.GsonConfigSerializer.deserialize(GsonConfigSerializer.java:83) ~[cloth-config-8.2.88-fabric.jar:?]
+	at me.shedaniel.autoconfig.ConfigManager.load(ConfigManager.java:92) ~[cloth-config-8.2.88-fabric.jar:?]
+	at me.shedaniel.autoconfig.ConfigManager.<init>(ConfigManager.java:53) ~[cloth-config-8.2.88-fabric.jar:?]
+	at me.shedaniel.autoconfig.AutoConfig.register(AutoConfig.java:66) ~[cloth-config-8.2.88-fabric.jar:?]
+	at com.github.clevernucleus.playerex.PlayerEx.onInitialize(PlayerEx.java:38) ~[playerex-3.3.7.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:62) [fabric-loader-0.14.9.jar:?]
+	at net.minecraft.server.Main.main(Main.java:101) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.1]
+Caused by: com.google.gson.JsonSyntaxException: java.lang.NumberFormatException: Expected an int but was 0.5 at line 5 column 31 path $.skillPointsPerLevelUp
+	at com.google.gson.internal.bind.TypeAdapters$7.read(TypeAdapters.java:229) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$7.read(TypeAdapters.java:219) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.read(ReflectiveTypeAdapterFactory.java:131) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:222) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:901) ~[gson-2.8.9.jar:?]
+	at me.shedaniel.autoconfig.serializer.GsonConfigSerializer.deserialize(GsonConfigSerializer.java:79) ~[cloth-config-8.2.88-fabric.jar:?]
+	... 13 more
+Caused by: java.lang.NumberFormatException: Expected an int but was 0.5 at line 5 column 31 path $.skillPointsPerLevelUp
+	at com.google.gson.stream.JsonReader.nextInt(JsonReader.java:1203) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$7.read(TypeAdapters.java:227) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$7.read(TypeAdapters.java:219) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.read(ReflectiveTypeAdapterFactory.java:131) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:222) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:901) ~[gson-2.8.9.jar:?]
+	at me.shedaniel.autoconfig.serializer.GsonConfigSerializer.deserialize(GsonConfigSerializer.java:79) ~[cloth-config-8.2.88-fabric.jar:?]
+	... 13 more
+[12:30:03] [main/WARN]: Could not find an internal config file for professions.conf. Not to worry, let's try and generate a default.
+[12:30:03] [main/INFO]: Constructing common components for mod puzzleslib
+[12:30:04] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[12:30:04] [main/INFO]: Mod initialized!
+[12:30:04] [main/INFO]: [REI] Registered plugin provider CharmReiServerPlugin [charm] for REIPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIPlugin
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[12:30:04] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider CharmReiServerPlugin [charm] for REIServerPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider AdornReiServer [adorn] for REIServerPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[12:30:04] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items
+[12:30:04] [main/INFO]: [RER] RoughlyEnoughPacketSize?  Possibly.
+[12:30:04] [main/INFO]: Registering C2S receiver with id roughlyenoughresources:asi
+[12:30:04] [main/INFO]: Trying to read config file...
+[12:30:04] [main/INFO]: A config file was found, loading it..
+[12:30:04] [main/INFO]: Successfully loaded config file.
+[12:30:04] [main/INFO]: Pre-init started!
+[12:30:04] [main/INFO]: Registering config
+[12:30:04] [main/INFO]: Registering particles
+[12:30:04] [main/INFO]: Registering items
+[12:30:04] [main/INFO]: Registering entities
+[12:30:04] [main/ERROR]: No data fixer registered for strawgolem
+[12:30:04] [main/ERROR]: No data fixer registered for strawnggolem
+[12:30:04] [main/INFO]: Registering sounds
+[12:30:04] [main/INFO]: Registering capabilities
+[12:30:04] [main/INFO]: Init started!
+[12:30:04] [main/INFO]: Registering packet IDs
+[12:30:04] [main/INFO]: Registering packets
+[12:30:05] [Thread-2/WARN]: Failed to fetch contributors data from url https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/credits.json, com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 149 column 6 path $.translators[23]
+[12:30:05] [main/INFO]: ".\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[12:30:06] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[12:30:06] [main/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region graveyard_biomes:biome_provider to index 5 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region terrestria:overworld to index 6 for type OVERWORLD
+[12:30:06] [main/INFO]: Registered region terrestria:overworld_rare to index 7 for type OVERWORLD
+[12:30:06] [main/INFO]: Enabling Terrestria's TerraBlender worldgen module.
+[12:30:06] [main/INFO]: [STDOUT]: thonkutil-capes-v1 Init
+[12:30:06] [main/INFO]: Constructing common components for mod tinyskeletons
+[12:30:06] [main/ERROR]: No data fixer registered for baby_skeleton
+[12:30:06] [main/ERROR]: No data fixer registered for baby_wither_skeleton
+[12:30:06] [main/ERROR]: No data fixer registered for baby_stray
+[12:30:06] [main/INFO]: Config loaded
+[12:30:06] [main/INFO]: Tom's Storage Setup starting
+[12:30:06] [FTB Backups Config Watcher 0/INFO]: Config at D:\Servers\Minecraft\MedievalMC_Server\config\ftbbackups2.json has changed, reloaded!
+[12:30:07] [main/INFO]: Constructing common components for mod tradingpost
+[12:30:07] [main/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for minecraft:water 81000 with the ID 0
+[12:30:07] [main/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for minecraft:lava 81000 with the ID 1
+[12:30:07] [main/INFO]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for travelersbackpack:potion_still 27000 with the ID 2
+[12:30:07] [main/INFO]: Initializing Twigs
+[12:30:07] [main/INFO]: Initialized Twigs (took 287ms)
+[12:30:07] [main/INFO]: Constructing common components for mod visualworkbench
+[12:30:07] [main/INFO]: Loading up Void Totem (Fabric)
+[12:30:07] [main/INFO]: Loaded 5 Static Content files for wolveswitharmor:wolf_armor
+[12:30:08] [main/INFO]: [STDERR]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[12:30:08] [main/INFO]: [STDERR]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[12:30:08] [main/INFO]: [STDERR]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[12:30:08] [main/INFO]: [STDOUT]: class mine.block.woof.commands.actions.JumpCommand
+[12:30:08] [main/INFO]: [STDOUT]: class mine.block.woof.commands.actions.GoAwayCommand
+[12:30:08] [main/INFO]: [STDOUT]: class mine.block.woof.commands.actions.HowlCommand
+[12:30:08] [main/INFO]: [STDOUT]: class mine.block.woof.commands.actions.SitCommand
+[12:30:08] [main/INFO]: [STDOUT]: class mine.block.woof.commands.actions.BarkCommand
+[12:30:08] [main/INFO]: [STDOUT]: class mine.block.woof.commands.generic.PetCommand
+[12:30:08] [main/INFO]: [STDOUT]: Registered Packet: minecraft:dog_command
+[12:30:08] [main/WARN]: [WTHIT] Plugin com.t2pellet.strawgolem.client.compat.CompatHwyla is using the default namespace minecraft:strawgolem
+[12:30:08] [main/INFO]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.plugin.core.WailaCore
+[12:30:08] [main/INFO]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaVanilla
+[12:30:08] [main/INFO]: [WTHIT] Registering plugin professions:prof_waila at com.epherical.professions.integration.wthit.ProfWailaPlugin
+[12:30:08] [main/INFO]: [WTHIT] Registering plugin minecraft:strawgolem at com.t2pellet.strawgolem.client.compat.CompatHwyla
+[12:30:08] [main/INFO]: Registering Strawgolem HWYLA Compat
+[12:30:08] [main/INFO]: [WTHIT] Registering plugin nameplate:plugin at net.nameplate.waila.NameplateWailaPlugin
+[12:30:08] [main/INFO]: [WTHIT] Registering plugin betternether:global at org.betterx.betternether.integrations.wthit.WailaPlugin
+[12:30:08] [main/INFO]: [betternether] Registering Waila-/Wthit-Plugin.
+[12:30:08] [main/INFO]: [WTHIT] Plugin config reloaded
+[12:30:09] [main/INFO]: [betterend] Registered betterend:old_bulbis_gardens
+[12:30:09] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
+[12:30:09] [main/INFO]: Registering Compat Wood Blocks
+[12:30:10] [main/INFO]: Registering Compat Leaves Blocks
+[12:30:10] [main/INFO]: Registered 796 compat blocks making up 10.214295% of total blocks registered
+[12:30:10] [main/ERROR]: No data fixer registered for dispenser_minecart
+[12:30:10] [main/ERROR]: No data fixer registered for falling_urn
+[12:30:10] [main/ERROR]: No data fixer registered for falling_ash
+[12:30:10] [main/ERROR]: No data fixer registered for falling_lantern
+[12:30:10] [main/ERROR]: No data fixer registered for falling_sack
+[12:30:10] [main/ERROR]: No data fixer registered for brick_projectile
+[12:30:10] [main/ERROR]: No data fixer registered for bomb
+[12:30:10] [main/ERROR]: No data fixer registered for rope_arrow
+[12:30:10] [main/ERROR]: No data fixer registered for slingshot_projectile
+[12:30:10] [main/INFO]: Finished mod setup in: 47 ms
+[12:30:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:30:10] [main/INFO]: [bclib] Loading from builtin Registry
+[12:30:10] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:10] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:10] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (5abb5549)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[12:30:11] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (785cadc)
+    biomes     = 31
+    namespaces = betternether, cinderscapes, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[12:30:11] [main/INFO]: [DataFixerAPI] Ignoring Patch{betternether:5.3.5:21020677}
+[12:30:11] [main/INFO]: [DataFixerAPI] Applying Patch{edenring:0.2.0:32768}
+[12:30:11] [main/INFO]: [bclib] Running Pre Patchers on .\world\.
+[12:30:11] [main/INFO]: [DataFixerAPI] Everything up to date
+[12:30:11] [main/INFO]: Preparing Data Pack injection.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\dungeons-arise-1-19-v1-1.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\ichphilipp-s-endcity-better-end-1-18-1.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\Repurposed_Structures-Farmers_Delight_v4.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\Repurposed_Structures-Friends_And_Foes-v2.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\Repurposed_Structures-More_Villagers_v7.zip.
+[12:30:11] [main/INFO]: Successfully injected 5/5 packs from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data.
+[12:30:11] [main/INFO]: Preparing Data Pack injection.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\dungeons-arise-1-19-v1-1.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\ichphilipp-s-endcity-better-end-1-18-1.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\Repurposed_Structures-Farmers_Delight_v4.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\Repurposed_Structures-Friends_And_Foes-v2.zip.
+[12:30:11] [main/INFO]: Loaded archive Data Pack from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data\Repurposed_Structures-More_Villagers_v7.zip.
+[12:30:11] [main/INFO]: Successfully injected 5/5 packs from D:\Servers\Minecraft\MedievalMC_Server\.\config\openloader\data.
+[12:30:11] [main/INFO]: ARRP register - before vanilla
+[12:30:11] [main/INFO]: ARRP register - after vanilla
+[12:30:12] [main/INFO]: Generated runtime SERVER_DATA for pack Everycomp Generated Pack in: 547 ms
+[12:30:12] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 86 ms
+[12:30:14] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (38f470c7)
+    biomes     = 31
+    namespaces = betternether, cinderscapes, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=square}
+[12:30:14] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:14] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:14] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (525ea00a)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=square, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[12:30:15] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (667ea624)
+    biomes     = 31
+    namespaces = betternether, cinderscapes, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[12:30:15] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:15] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:15] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (2438339a)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[12:30:20] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[12:30:20] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:20] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:20] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (5b6800f8)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = -8411852864472961534
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[12:30:20] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (48cce365)
+    biomes     = 31
+    namespaces = betternether, cinderscapes, minecraft
+    seed       = -8411852864472961534
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[12:30:20] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:20] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:20] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - The End BiomeSource (51515830)
+    biomes     = 26
+    namespaces = betterend, minecraft
+    seed       = 0
+    height     = 128
+    deciders   = 1
+    config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[12:30:20] [main/INFO]: [bclib] Make sure features are loaded from terrablender
+BCLib - Nether BiomeSource (7968260)
+    biomes     = 31
+    namespaces = betternether, cinderscapes, minecraft
+    seed       = 0
+    height     = 128
+    config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[12:30:20] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:20] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:21] [main/INFO]: Adding serverside commands..
+[12:30:22] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:powder_snow_walkable_mobs as it is missing following references: creatures_of_the_snow:snowseal (from Creatures Of The Snow), creatures_of_the_snow:snowtrover (from Creatures Of The Snow)
+[12:30:22] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:freeze_immune_entity_types as it is missing following references: creatures_of_the_snow:snowseal (from Creatures Of The Snow), creatures_of_the_snow:snowtrover (from Creatures Of The Snow)
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: endgoblintraders:trades/end_goblin_trader/legendary.json,net.minecraft.class_3298@7710f3a
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: endgoblintraders:trades/end_goblin_trader/uncommon.json,net.minecraft.class_3298@1a97d5b8
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: endgoblintraders:trades/end_goblin_trader/common.json,net.minecraft.class_3298@576ef99f
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: endgoblintraders:trades/end_goblin_trader/rare.json,net.minecraft.class_3298@570d551f
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: endgoblintraders:trades/end_goblin_trader/epic.json,net.minecraft.class_3298@580a881b
+[12:30:22] [Worker-Main-4/ERROR]: Couldn't load tag medievalorigins:cakes as it is missing following references: minecraft:candle_cake (from Medieval Origins), minecraft:white_candle_cake (from Medieval Origins), minecraft:orange_candle_cake (from Medieval Origins), minecraft:magenta_candle_cake (from Medieval Origins), minecraft:light_blue_candle_cake (from Medieval Origins), minecraft:yellow_candle_cake (from Medieval Origins), minecraft:lime_candle_cake (from Medieval Origins), minecraft:pink_candle_cake (from Medieval Origins), minecraft:gray_candle_cake (from Medieval Origins), minecraft:light_gray_candle_cake (from Medieval Origins), minecraft:cyan_candle_cake (from Medieval Origins), minecraft:purple_candle_cake (from Medieval Origins), minecraft:blue_candle_cake (from Medieval Origins), minecraft:brown_candle_cake (from Medieval Origins), minecraft:green_candle_cake (from Medieval Origins), minecraft:red_candle_cake (from Medieval Origins), minecraft:black_candle_cake (from Medieval Origins)
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/epic.json,net.minecraft.class_3298@f9d6d9e
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/legendary.json,net.minecraft.class_3298@60f06ae8
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/rare.json,net.minecraft.class_3298@686e20a9
+[12:30:22] [Worker-Main-4/ERROR]: Couldn't load tag medievalorigins:crops as it is missing following references: minecraft:carrots (from Medieval Origins), minecraft:potatoes (from Medieval Origins), minecraft:beetroots (from Medieval Origins), minecraft:cocao (from Medieval Origins), minecraft:sweet_berry_bush (from Medieval Origins)
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/common.json,net.minecraft.class_3298@a02ea5
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/goblin_trader/uncommon.json,net.minecraft.class_3298@643542b2
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/common.json,net.minecraft.class_3298@195729f6
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/legendary.json,net.minecraft.class_3298@123bf6cb
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/epic.json,net.minecraft.class_3298@2637a7b4
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/rare.json,net.minecraft.class_3298@5030af55
+[12:30:22] [Worker-Main-11/INFO]: [STDOUT]: goblintraders:trades/vein_goblin_trader/uncommon.json,net.minecraft.class_3298@7088343c
+[12:30:24] [main/ERROR]: Parsing error loading recipe medievalweapons:adamantite_long_sword
+com.google.gson.JsonSyntaxException: Unknown item 'betterend:adamantite_ingot'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_8157(class_1869.java:233) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:265) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:260) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:958) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:946) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:156) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.1]
+[12:30:24] [main/ERROR]: Parsing error loading recipe farmersknives:star_platinum_knife
+com.google.gson.JsonSyntaxException: Unknown item 'mythicmetals:star_platinum_ingot'
+	at net.minecraft.class_1869.method_17878(class_1869.java:253) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.class_1869.method_8155(class_1869.java:253) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8107(class_1856.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1856.method_8102(class_1856.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869.method_8157(class_1869.java:233) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8164(class_1869.java:265) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1869$class_1870.method_8121(class_1869.java:260) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_17720(class_1863.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_20705(class_1863.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:958) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:946) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:156) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.1]
+[12:30:24] [main/INFO]: Loaded 24 recipes
+[12:30:24] [main/INFO]: ".\config\byg\settings.json5" was read.
+[12:30:24] [main/ERROR]: Couldn't parse loot table bountiful:blocks/bountyboard
+com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+	at net.minecraft.class_3518.method_15265(class_3518.java:119) ~[server-intermediary.jar:?]
+	at net.minecraft.class_134$class_136.method_605(class_134.java:112) ~[server-intermediary.jar:?]
+	at net.minecraft.class_134$class_136.method_530(class_134.java:101) ~[server-intermediary.jar:?]
+	at net.minecraft.class_120$class_123.method_528(class_120.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_120$class_123.method_517(class_120.java:88) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:473) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_441(class_85.java:149) ~[server-intermediary.jar:?]
+	at net.minecraft.class_85$class_90.method_424(class_85.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_29319(class_79.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.class_79$class_5337.method_517(class_79.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5330$class_5333.deserialize(class_5330.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15272(class_3518.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.method_358(class_55.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_55$class_57.deserialize(class_55.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_3518.method_15291(class_3518.java:455) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3518.method_15283(class_3518.java:473) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.method_340(class_52.java:214) ~[server-intermediary.jar:?]
+	at net.minecraft.class_52$class_54.deserialize(class_52.java:210) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar:?]
+	at net.minecraft.class_60.method_20711(class_60.java:44) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1420) ~[?:?]
+	at net.minecraft.class_60.method_20712(class_60.java:42) ~[server-intermediary.jar:?]
+	at net.minecraft.class_60.method_18788(class_60.java:17) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43498(class_156.java:958) [server-intermediary.jar:?]
+	at net.minecraft.class_156.method_43499(class_156.java:946) [server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:156) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.14.9.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launcher.jar:0.11.1]
+[12:30:28] [main/INFO]: Loaded 6857 advancements
+[12:30:28] [main/ERROR]: There was a problem reading power file rpg_origins:stealthy_invis (skipping): Error reading data field at min_stacks: JSON requires field: min_stacks
+[12:30:28] [main/INFO]: Finished loading powers from data files. Registry contains 330 powers.
+[12:30:28] [main/ERROR]: Origin "rpg_origins:cleric" contained unregistered power: "rpg_origins:magical"
+[12:30:28] [main/ERROR]: Origin "rpg_origins:mage" contained unregistered power: "rpg_origins:magical"
+[12:30:28] [main/ERROR]: Origin "medievalorigins:troll" contained unregistered power: "medievalorigins:troll/dweller_of_the_hills"
+[12:30:28] [main/INFO]: Finished loading origins from data files. Registry contains 34 origins.
+[12:30:28] [main/INFO]: Trying to read layer file: origins:origin
+[12:30:28] [main/INFO]: Trying to read layer file: origins:origin
+[12:30:28] [main/INFO]: Trying to read layer file: origins:origin
+[12:30:28] [main/INFO]: Trying to read layer file: origins:origin
+[12:30:28] [main/INFO]: Finished loading origin layers from data files. Read 1 layers.
+[12:30:28] [main/INFO]: Loaded 0 conditional recipes
+[12:30:29] [main/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [START], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:30:29] [main/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [START], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:30:29] [main/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 5 plugins in 143.7 ms.
+[12:30:29] [main/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 5 plugins in 9.006 ms.
+[12:30:29] [main/INFO]: [REI] Reloading Plugin Manager [REIPlugin] stage [END], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:30:29] [main/INFO]: [REI] Reloading Plugin Manager [REIServerPlugin] stage [END], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:30:29] [main/INFO]: [REI] Reloaded Plugin Manager [REIPlugin] with 5 plugins in 122.0 ms.
+[12:30:29] [main/INFO]: [REI] Reloaded Plugin Manager [REIServerPlugin] with 5 plugins in 46.46 ms.
+[12:30:29] [main/INFO]: Loaded  8 flute songs
+[12:30:29] [main/INFO]: Reloading graveyard
+[12:30:29] [main/INFO]: Reloading custom grave areas
+[12:30:29] [main/INFO]: Reloading grave shape (server side)
+[12:30:46] [main/INFO]: Finished additional setup in 0 seconds
+[12:30:47] [main/INFO]: Mixing server.MixinDedicatedServer from nochatreports.mixins.json into net.minecraft.class_3176
+[12:30:47] [main/INFO]: Mixing server.MixinPlayerList from nochatreports.mixins.json into net.minecraft.class_3324
+[12:30:47] [main/INFO]: Mixing common.MixinServerStatus from nochatreports.mixins.json into net.minecraft.class_2926
+[12:30:47] [main/INFO]: ".\config\byg\nether-biomes.json5" was read.
+[12:30:47] [main/INFO]: ".\config\byg\end-biomes.json5" was read.
+[12:30:48] [main/INFO]: Applied 10114 biome modifications to 234 of 234 new biomes in 670.7 ms
+[12:30:48] [main/INFO]: [bclib] Found End Biome betterend:nightshade_redwoods that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:48] [main/INFO]: [bclib] Found End Biome betterend:old_bulbis_gardens that was not registers with fabric or bclib. Assuming end-land Biome...
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:bulbis_gardens
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:cryptic_wastes
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:ethereal_islands
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:imparius_grove
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:ivis_fields
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:nightshade_forest
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:shulkren_forest
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:viscal_isles
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:arisian_undergrowth
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:brimstone_caverns
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:crimson_gardens
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:embur_bog
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:glowstone_gardens
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:magma_wastes
+[12:30:48] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:quartz_desert
+[12:30:49] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:subzero_hypogeal
+[12:30:49] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:sythian_torrids
+[12:30:49] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:wailing_garth
+[12:30:49] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:warped_desert
+[12:30:49] [main/WARN]: [bclib] Unable to register Dummy Biome Entry for byg:weeping_mire
+[12:30:49] [main/INFO]: ".\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[12:30:49] [main/INFO]: ".\config\byg\surface_rules\end_surface_rules.json5" was read.
+[12:30:49] [main/INFO]: ".\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[12:30:49] [Server thread/INFO]: Loaded FTB Teams - 0 known players
+[12:30:49] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[12:30:49] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[12:30:49] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[12:30:49] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[12:30:49] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[12:30:49] [Server thread/INFO]: Loading server config for barteringstation
+[12:30:49] [Thread-4/INFO]: Reloading server config for barteringstation
+[12:30:49] [Thread-4/INFO]: Reloading server config for barteringstation
+[12:30:49] [Server thread/INFO]: Loading server config for easymagic
+[12:30:49] [Server thread/INFO]: Loading server config for magnumtorch
+[12:30:49] [Server thread/INFO]: Loading server config for tradingpost
+[12:30:49] [Thread-4/INFO]: Reloading server config for magnumtorch
+[12:30:49] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/savanna/houses
+[12:30:49] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/snowy/houses
+[12:30:49] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/plains/houses
+[12:30:49] [Server thread/INFO]: Adding waystone fwaystones:desert_village_waystone to village minecraft:village/desert/houses
+[12:30:49] [Server thread/INFO]: Adding waystone fwaystones:village_waystone to village minecraft:village/taiga/houses
+[12:31:03] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[12:31:03] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event firing...
+[12:31:03] [Server thread/INFO]: ".\config\byg\growing-patterns.json5" was read.
+[12:31:03] [Server thread/INFO]: ".\config\byg\trades.json5" was read.
+[12:31:03] [Server thread/INFO]: ".\config\byg\biomepedia.json5" was read.
+[12:31:03] [Server thread/INFO]: Created compressed zip back up for ".\config\byg" in ".\config\byg\backups\last_working_configs_backup.zip"
+[12:31:03] [Server thread/INFO]: BYG: Compostible Blocks Added!
+[12:31:03] [Server thread/INFO]: BYG: Added tillables!
+[12:31:03] [Server thread/INFO]: BYG: Added Flammables!
+[12:31:03] [Server thread/INFO]: BYG: Added strippable Blocks...
+[12:31:03] [Server thread/INFO]: BYG: "Load Complete" Event Complete!
+[12:31:03] [Server thread/INFO]: "Oh The Biomes You'll Go" after registries freeze event complete!
+[12:31:03] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[12:31:03] [Server thread/INFO]: Loading properties
+[12:31:03] [Server thread/INFO]: Default game type: SURVIVAL
+[12:31:03] [Server thread/INFO]: Generating keypair
+[12:31:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:31:04] [Server thread/INFO]: Using default channel type
+[12:31:04] [Server thread/INFO]: Preparing level "world"
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for the_bumblezone:the_bumblezone
+    BzBiomeProvider (46280ae6)
+        biomes     = 5
+        namespaces = the_bumblezone
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for edenring:edenring
+    EdenBiomeSource (4821e727)
+        biomes     = 12
+        namespaces = edenring
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for voidz:void
+    class_1992 (6b7e38b5)
+        biomes     = 1
+        namespaces = minecraft
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:overworld
+    class_4766 (754af108)
+        biomes     = 52
+        namespaces = minecraft
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for deeperdarker:otherside
+    class_4766 (48d3f893)
+        biomes     = 2
+        namespaces = deeperdarker
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_end
+    BCLib - The End BiomeSource (4f8aaf2d)
+        biomes     = 40
+        namespaces = betterend, byg, minecraft
+        seed       = -8411852864472961534
+        height     = 0
+        deciders   = 1
+        config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+[12:31:04] [Server thread/INFO]: [bclib] 
+Apply Modifications for minecraft:the_nether
+    BCLib - Nether BiomeSource (1762085c)
+        biomes     = 43
+        namespaces = betternether, byg, cinderscapes, minecraft
+        seed       = -8411852864472961534
+        height     = 0
+        config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[12:31:04] [Server thread/INFO]: [bclib] World Dimensions: 
+ - the_bumblezone:the_bumblezone: 
+     com.telepathicgrunt.the_bumblezone.world.dimension.BzChunkGenerator@1f48cf5f 
+     BzBiomeProvider (46280ae6)
+         biomes     = 5
+         namespaces = the_bumblezone
+ - edenring:edenring: 
+     net.minecraft.class_3754@26d029f0 
+     EdenBiomeSource (4821e727)
+         biomes     = 12
+         namespaces = edenring
+ - voidz:void: 
+     net.voidz.dimension.VoidChunkGenerator@321520b2 
+     class_1992 (6b7e38b5)
+         biomes     = 1
+         namespaces = minecraft
+ - minecraft:overworld: 
+     net.minecraft.class_3754@5272d9f8 
+     class_4766 (754af108)
+         biomes     = 52
+         namespaces = minecraft
+ - deeperdarker:otherside: 
+     net.minecraft.class_3754@53d8518b 
+     class_4766 (48d3f893)
+         biomes     = 2
+         namespaces = deeperdarker
+ - minecraft:the_end: 
+     BCLib - Chunk Generator (73c4a216) 
+     BCLib - The End BiomeSource (4f8aaf2d)
+         biomes     = 40
+         namespaces = betterend, byg, minecraft
+         seed       = -8411852864472961534
+         height     = 0
+         deciders   = 1
+         config     = BCLEndBiomeSourceConfig{mapVersion=hex, generatorVersion=paulevs, withVoidBiomes=true, innerVoidRadiusSquared=1048576, voidBiomesSize=256, centerBiomesSize=256, landBiomesSize=256, barrensBiomesSize=256}
+ - minecraft:the_nether: 
+     BCLib - Chunk Generator (1e5cbf21) 
+     BCLib - Nether BiomeSource (1762085c)
+         biomes     = 43
+         namespaces = betternether, byg, cinderscapes, minecraft
+         seed       = -8411852864472961534
+         height     = 0
+         config     = BCLibNetherBiomeSourceConfig{mapVersion=hex}
+[12:31:06] [Server thread/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[12:31:08] [Server thread/INFO]: ".\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[12:31:08] [Server thread/INFO]: ".\config\byg\surface_rules\end_surface_rules.json5" was read.
+[12:31:08] [Server thread/INFO]: ".\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[12:31:08] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "bclib:nether_biome_source".
+[12:31:08] [Server thread/INFO]: ".\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[12:31:08] [Server thread/INFO]: ".\config\byg\surface_rules\end_surface_rules.json5" was read.
+[12:31:08] [Server thread/INFO]: ".\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[12:31:08] [Server thread/INFO]: Loading dimension "minecraft:the_end" with biome source: "bclib:end_biome_source".
+[12:31:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:31:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:31:22] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[12:31:22] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[12:31:23] [Worker-Main-9/INFO]: Preparing spawn area: 25%
+[12:31:23] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[12:31:24] [Worker-Main-10/INFO]: Preparing spawn area: 80%
+[12:31:24] [Server thread/INFO]: Time elapsed: 15962 ms
+[12:31:24] [Server thread/INFO]: [MemoryLeakFix] Attempting to ForceLoad All Mixins and clear cache
+[12:31:24] [Server thread/WARN]: @Final field field_25883:Lnet/minecraft/class_4970$class_4973; in charm.mixins.json:more_portal_frames.AddValidPortalFrameBlocksMixin from mod charm should be final
+[12:31:25] [Server thread/INFO]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.class_2926$class_2929
+[12:31:25] [Server thread/INFO]: Mixing server.MixinServerboundChatPacket from nochatreports.mixins.json into net.minecraft.class_2797
+[12:31:25] [Server thread/INFO]: [MemoryLeakFix] Done ForceLoad and clearing SpongePowered cache
+[12:31:25] [Server thread/INFO]: Done (20.409s)! For help, type "help"
+[12:31:25] [Server thread/INFO]: Starting backup cleaning thread
+[12:31:25] [Server thread/INFO]: Using default implementation for ThreadExecutor
+[12:31:25] [Server thread/INFO]: Initialized Scheduler Signaller of type: class net.creeperhost.ftbbackups.org.quartz.core.SchedulerSignalerImpl
+[12:31:25] [Server thread/INFO]: Quartz Scheduler v.2.0.2 created.
+[12:31:25] [Server thread/INFO]: RAMJobStore initialized.
+[12:31:25] [Server thread/INFO]: Scheduler meta-data: Quartz Scheduler (v2.0.2) 'ftbbackups2' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'net.creeperhost.ftbbackups.org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'net.creeperhost.ftbbackups.org.quartz.simpl.SimpleThreadPool' - with 1 threads.
+  Using job-store 'net.creeperhost.ftbbackups.org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[12:31:25] [Server thread/INFO]: Quartz scheduler 'ftbbackups2' initialized from an externally provided properties instance.
+[12:31:25] [Server thread/INFO]: Quartz scheduler version: 2.0.2
+[12:31:25] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED started.
+[12:31:25] [Server thread/INFO]: Loading quests from D:\Servers\Minecraft\MedievalMC_Server\config\ftbquests\quests
+[12:31:25] [Server thread/INFO]: Loaded 1 chapter groups, 4 chapters, 37 quests, 0 reward tables
+[12:31:26] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 314321 bytes (in 32 string chunks with the size of 10000)
+[12:31:26] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[12:31:26] [Server thread/INFO]: Loaded data from grave data file
+[12:31:26] [Server thread/INFO]: Loaded values for 53 compatible attributes.
+[12:31:26] [Server thread/INFO]: Loaded 53 values from config.
+[12:31:26] [Server thread/INFO]: Saving config file. 53 entries.
+[12:31:26] [Server thread/INFO]: Applying changes for 53 attributes.
+[12:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[12:32:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:32:45] [Server thread/INFO]:  sotp<--[HERE]
+[12:32:46] [Server thread/INFO]: Stopping the server
+[12:32:46] [Server thread/INFO]: Shutting down the scheduler thread
+[12:32:46] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED shutting down.
+[12:32:46] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED paused.
+[12:32:46] [Server thread/INFO]: Scheduler ftbbackups2_$_NON_CLUSTERED shutdown complete.
+[12:32:46] [Server thread/INFO]: Closing the file watcher
+[12:32:46] [Server thread/INFO]: Shutting down the config watcher executor
+[12:32:46] [Server thread/INFO]: Shutting down backup cleaning executor
+[12:32:46] [Server thread/INFO]: Shutting down backup executor
+[12:32:46] [Server thread/INFO]: [STDOUT]: Saving server results
+[12:32:46] [Server thread/INFO]: [STDOUT]: Saving config results
+[12:32:46] [Server thread/INFO]: Stopping server
+[12:32:46] [Server thread/INFO]: Saving players
+[12:32:46] [Server thread/INFO]: Saving worlds
+[12:32:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[12:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/edenring:edenring
+[12:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/voidz:void
+[12:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[12:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:32:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (edenring): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:32:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:32:54] [Server thread/INFO]: closing rrp woof:arrp
+[12:32:54] [Server thread/INFO]: Shutting down map thread
+[12:32:54] [Thread-1/INFO]: Closing the file watcher
+[12:32:54] [Thread-1/INFO]: Shutting down the config watcher executor
+[12:32:54] [Thread-1/INFO]: Shutting down backup cleaning executor
+[12:32:54] [Thread-1/INFO]: Shutting down backup executor
