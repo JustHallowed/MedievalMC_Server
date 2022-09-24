@@ -1,7 +1,7 @@
 {
-	id: "50EEC609E833AB5F"
+	id: "4B174BB2FDFE4D4F"
 	group: ""
-	order_index: 9
+	order_index: 3
 	filename: "the_end"
 	title: "The End"
 	icon: "minecraft:end_portal_frame"
@@ -9,270 +9,216 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: 0.0d
-			y: 0.0d
-			id: "4D36AAFE17F5CD9C"
+			x: -0.5d
+			y: -0.5d
+			id: "07E305E95A000FAF"
 			tasks: [{
-				id: "444AC080F3243355"
+				id: "42642531FFCE3EBA"
 				type: "dimension"
-				title: "Enter The End Dimension"
-				icon: "minecraft:end_portal_frame"
+				title: "Enter The End"
+				icon: "minecraft:end_stone"
 				dimension: "minecraft:the_end"
 			}]
-			rewards: [
-				{
-					id: "7B2239F7579DF766"
-					type: "item"
-					item: "minecraft:end_stone"
-					count: 64
-				}
-				{
-					id: "4546AA8D1782E314"
-					type: "item"
-					item: {
-						id: "minecraft:written_book"
-						Count: 1b
-						tag: {
-							pages: ["{\"text\":\"It is told that there is a Creature more powerfull thatn the Ender Dragon!\"}"]
-							RepairCost: 0
-							title: "The End"
-							author: "SharkieWasBanned"
-							display: {
-								Name: "{\"text\":\"This is not The End?\"}"
-							}
-						}
-					}
-				}
-			]
+			rewards: [{
+				id: "20C1A6685225ABC1"
+				type: "item"
+				item: "minecraft:end_stone"
+				count: 60
+			}]
 		}
 		{
-			icon: "minecraft:dragon_head"
-			x: 1.5d
-			y: 0.0d
-			dependencies: ["4D36AAFE17F5CD9C"]
-			id: "2A51F2BA00FCA9DF"
+			x: 1.0d
+			y: -0.5d
+			dependencies: ["07E305E95A000FAF"]
+			id: "2CE58DD1AE214711"
 			tasks: [{
-				id: "412B85684482E982"
+				id: "6848B89E38A80BAB"
 				type: "kill"
-				title: "Kill The Ender Dragon"
+				title: "Kill the Ender Dragon"
+				icon: "minecraft:dragon_head"
 				entity: "minecraft:ender_dragon"
 				value: 1L
 			}]
 			rewards: [
 				{
-					id: "141F89B6238B7A86"
+					id: "1919D53920738BB2"
 					type: "item"
-					item: "iceandfire:dragonegg_black"
+					item: "adventurez:dragon_saddle"
 				}
 				{
-					id: "498418402CC89A48"
+					id: "38CA92A17FD95654"
 					type: "xp"
 					xp: 100
 				}
 			]
 		}
 		{
-			title: "Collect a Void Crystal"
-			icon: "stalwart_dungeons:void_crystal"
-			x: 9.0d
-			y: 0.0d
-			description: ["Use TNT to defeat him"]
+			x: 2.5d
+			y: -0.5d
 			optional: true
-			id: "243DD38EBFA8CA69"
+			id: "21D51BCBD1818836"
 			tasks: [{
-				id: "649EAE2830C0B5CA"
-				type: "item"
-				item: "stalwart_dungeons:void_crystal"
-			}]
-			rewards: [
-				{
-					id: "599CC92F2E38568B"
-					type: "xp"
-					xp: 100
-				}
-				{
-					id: "3A9F710643608453"
-					type: "item"
-					item: {
-						id: "dungeons_gear:voidcaller"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
-				}
-				{
-					id: "1205664C26FF5144"
-					type: "item"
-					item: "eidolon:void_amulet"
-				}
-			]
-		}
-		{
-			x: 10.5d
-			y: 0.0d
-			description: ["Capsid and Mosquito Crimson Lava can create the Void Worm"]
-			dependencies: ["0A3378F1077CEBF8"]
-			id: "1839FE2EA7937C34"
-			tasks: [{
-				id: "3D9577E7AC16A0C6"
+				id: "64FF133673B090FC"
 				type: "kill"
-				title: "Summon and Kill The Void Worm"
-				icon: "alexsmobs:void_worm_eye"
-				entity: "alexsmobs:void_worm"
+				title: "Kill a Enderwarthog"
+				icon: "adventurez:warthog_shell_piece"
+				entity: "adventurez:enderwarthog"
 				value: 1L
 			}]
 			rewards: [
 				{
-					id: "52AF9BBAA8713450"
+					id: "30858682690CF868"
+					type: "item"
+					item: "minecraft:ender_eye"
+				}
+				{
+					id: "459CB45077E841D0"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: -0.5d
+			optional: true
+			id: "523ECDEFE767B5D0"
+			tasks: [{
+				id: "0903C15F1037FC44"
+				type: "kill"
+				title: "Kill a Ender Whale"
+				icon: "adventurez:ender_whale_skin"
+				entity: "adventurez:ender_whale"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "7EBB2B890D751802"
+					type: "item"
+					item: "minecraft:ender_eye"
+				}
+				{
+					id: "59AA5C036E2543A7"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: -0.5d
+			dependencies: ["2CE58DD1AE214711"]
+			id: "7E5FC5E13FFF2D6C"
+			tasks: [{
+				id: "4497666E1477F3A1"
+				type: "kill"
+				title: "Kill the Obsidilith"
+				icon: "bosses_of_mass_destruction:obsidian_heart"
+				entity: "bosses_of_mass_destruction:obsidilith"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "5CCCFB3879B7E25B"
+					type: "item"
+					item: "minecraft:obsidian"
+					count: 25
+				}
+				{
+					id: "698C6D3816F60770"
+					type: "item"
+					item: "minecraft:crying_obsidian"
+					count: 9
+				}
+				{
+					id: "5BED4A669AB10835"
+					type: "item"
+					item: "minecraft:end_rod"
+					count: 8
+				}
+				{
+					id: "5DD60D836CBAFB14"
 					type: "item"
 					item: {
-						id: "patchouli:guide_book"
-						Count: 1b
-						tag: {
-							"patchouli:book": "theabyss:abyssbookitem"
-						}
-					}
-				}
-				{
-					id: "3594AD2BE0CD8021"
-					type: "item"
-					item: "theabyss:unstable_obsidian"
-					count: 12
-				}
-				{
-					id: "66FD07E86A91A18E"
-					type: "item"
-					item: "sons_of_sins:rotten_apple"
-					count: 16
-				}
-				{
-					id: "5AD3040B60DCA4B9"
-					type: "item"
-					item: {
-						id: "theabyss:the_abyss"
+						id: "dragonloot:dragon_pickaxe"
 						Count: 1b
 						tag: {
 							Damage: 0
 						}
 					}
 				}
+				{
+					id: "15D21F2AD5DAB022"
+					type: "xp"
+					xp: 100
+				}
 			]
 		}
 		{
-			x: 3.0d
-			y: 0.0d
-			dependencies: ["2A51F2BA00FCA9DF"]
-			id: "7CB4A8E2B266BCF3"
+			x: 7.0d
+			y: -0.5d
+			dependencies: ["7E5FC5E13FFF2D6C"]
+			id: "26E01F1822B87C9D"
 			tasks: [{
-				id: "6ED0F4A584CAEFD1"
+				id: "0CE2C6F045E057B7"
 				type: "kill"
-				title: "Kill a Mutant Enderman"
+				title: "Kill the Eye"
 				icon: "minecraft:ender_eye"
-				entity: "mutantbeasts:mutant_enderman"
+				entity: "adventurez:the_eye"
 				value: 1L
 			}]
 			rewards: [
 				{
-					id: "27A8857C67E7F003"
+					id: "1CA800C579FCE8EC"
 					type: "item"
-					item: "minecraft:nether_star"
+					item: "bosses_of_mass_destruction:levitation_block"
 				}
 				{
-					id: "39FEE3FB43B9C72A"
+					id: "037FB5DA0847E7A7"
 					type: "xp"
 					xp: 100
 				}
 			]
 		}
 		{
-			x: 4.5d
-			y: 0.0d
-			optional: true
-			id: "3DC054878E68C0A7"
+			x: 8.5d
+			y: -0.5d
+			dependencies: ["26E01F1822B87C9D"]
+			id: "5FCA29F10B0B0F24"
 			tasks: [{
-				id: "6D41BDC739DCAB05"
+				id: "1EA250B7FA548C0F"
 				type: "kill"
-				title: "Kill a Mutant Shulker"
-				icon: "mutantmore:mutant_shulker_box"
-				entity: "mutantmore:mutant_shulker"
+				title: "Enter the Void and Kill the Void Shadow"
+				icon: "adventurez:source_stone"
+				entity: "adventurez:void_shadow"
 				value: 1L
 			}]
 			rewards: [
 				{
-					id: "2C72480CFCF88D58"
+					id: "5D3C48515F9031CE"
 					type: "item"
-					item: "forbidden_arcanus:end_crystal_gem"
+					item: "dragonloot:dragon_scale"
+					count: 3
 				}
 				{
-					id: "1653CCB1367548F3"
-					type: "xp"
-					xp: 100
-				}
-			]
-		}
-		{
-			x: 6.0d
-			y: 0.0d
-			description: ["Found in the End in the Ruined Citadel"]
-			dependencies: ["7CB4A8E2B266BCF3"]
-			id: "2A991A7A07F48137"
-			tasks: [{
-				id: "717EFC6BD2CDE31C"
-				type: "kill"
-				title: "Kill a Ender Golem"
-				icon: "cataclysm:void_core"
-				entity: "cataclysm:ender_golem"
-				value: 1L
-			}]
-			rewards: [
-				{
-					id: "7EA89374CC2C192B"
-					type: "xp"
-					xp: 100
-				}
-				{
-					id: "1E9F033D56BBD65D"
+					id: "4CA47D13F24771F9"
 					type: "item"
-					item: {
-						id: "cataclysm:zweiender"
-						Count: 1b
-						tag: {
-							Damage: 0
-						}
-					}
+					item: "bosses_of_mass_destruction:mob_ward"
 				}
-			]
-		}
-		{
-			x: 7.5d
-			y: 0.0d
-			description: ["Found in the End in the Ruined Citadel"]
-			dependencies: ["2A991A7A07F48137"]
-			id: "0A3378F1077CEBF8"
-			tasks: [{
-				id: "7DF7335446AA6AAF"
-				type: "kill"
-				title: "Kill the Ender Guardian"
-				icon: "cataclysm:ender_guardian_spawner"
-				entity: "cataclysm:ender_guardian"
-				value: 1L
-			}]
-			rewards: [
 				{
-					id: "0248C687FC087146"
+					id: "6485437B2F07055E"
 					type: "item"
-					item: "alexsmobs:mosquito_larva"
+					item: "bosses_of_mass_destruction:monolith_block"
 				}
 				{
-					id: "26A953E2EB71597B"
+					id: "5AE898145996CB2B"
 					type: "item"
-					item: "alexsmobs:capsid"
+					item: "adventurez:shadow_chest_block"
 				}
 				{
-					id: "67D596B532253944"
-					type: "xp"
-					xp: 100
+					id: "21C418E19809F111"
+					type: "xp_levels"
+					xp_levels: 50
 				}
 			]
 		}

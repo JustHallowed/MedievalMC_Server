@@ -2,22 +2,27 @@
   "general": {
     "displayTooltip": true,
     "shiftForDetails": false,
+    "hideShiftText": false,
     "displayMode": "TOGGLE",
+    "hideFromPlayerList": true,
     "hideFromDebug": true,
-    "iconMode": "TOP",
     "enableTextToSpeech": false,
-    "maxHealthForRender": 40,
-    "maxHeartsPerLine": 10,
-    "fluldMode": "NONE",
-    "reachDistance": 0.0
+    "rateLimit": 250
   },
   "overlay": {
-    "overlayPosX": 0.0,
-    "overlayPosY": 1.0,
-    "overlayAnchorX": 0.0,
-    "overlayAnchorY": 0.0,
-    "overlaySquare": false,
-    "flipMainHand": false,
+    "position": {
+      "align": {
+        "x": "LEFT",
+        "y": "TOP"
+      },
+      "anchor": {
+        "x": "LEFT",
+        "y": "TOP"
+      },
+      "x": 0,
+      "y": 0,
+      "bossBarsOverlap": false
+    },
     "color": {
       "alpha": 0,
       "themes": [
@@ -37,13 +42,15 @@
         }
       ],
       "activeTheme": "waila:dark"
-    }
+    },
+    "scale": 1.0
   },
-  "formatting": {
-    "modName": "\\u00A79\\u00A7o%s",
-    "blockName": "\\u00A7f%s",
-    "fluidName": "\\u00A7f%s",
-    "entityName": "\\u00A7f%s",
-    "registryName": "\\u00A77[%s]"
-  }
+  "formatter": {
+    "modName": "§9§o%s",
+    "blockName": "§f%s",
+    "fluidName": "§f%s",
+    "entityName": "§f%s",
+    "registryName": "§8%s"
+  },
+  "configVersion": 1
 }

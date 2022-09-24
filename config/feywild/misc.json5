@@ -1,8 +1,0 @@
-{
-  // The duration in ticks for the levitation effect applied by fey dust.
-  // Minimum: 1
-  "fey_dust_ticks": 30,
-  
-  // Whether players should spawn with a Feywild Lexicon
-  "initial_lexicon": true
-}

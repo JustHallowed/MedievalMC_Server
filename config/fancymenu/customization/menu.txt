@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  identifier = net.minecraft.class_433
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -18,51 +18,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -67
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = 28
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=374342%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=3743421%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=398318%
-  orientation = mid-centered
-  x = -102
-  action = movebutton
-  y = 4
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  orientation = mid-centered
-  x = 4
-  action = movebutton
-  y = -44
-}
-
-customization {
-  identifier = %id=604354%
-  action = hidebutton
+  y = -94
 }
 
 customization {
@@ -71,25 +27,24 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = 2
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
   orientation = mid-centered
   x = 4
   action = movebutton
-  y = 28
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  action = sethoverlabel
-  label = [NOT TESTED]
-}
-
-customization {
-  identifier = %id=606270%
-  orientation = mid-centered
-  x = -126
-  action = movebutton
-  y = -44
+  y = -46
 }
 
 customization {
@@ -97,7 +52,15 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -44
+  y = -70
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = mid-centered
+  x = -102
+  action = movebutton
+  y = -22
 }
 
 customization {
@@ -105,22 +68,15 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = 52
+  y = 26
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
   orientation = mid-centered
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = openlink
   x = 4
-  width = 98
-  actionid = 3709df32-9b77-4306-9bbe-ee6b41b5ae0a1640666673757
-  action = addbutton
-  y = -20
-  label = Report Bugs
-  value = https://discord.gg/8ZmhaPPbjE
-  height = 20
+  action = movebutton
+  y = -70
 }
 
 customization {
@@ -130,9 +86,9 @@ customization {
   buttonaction = openlink
   x = -102
   width = 98
-  actionid = 969c17e9-f4f8-446f-b7ca-eecca001a3841640666691494
+  actionid = c28d3bb9-a98f-4aba-95f4-41f7ed8393fb1638450967691
   action = addbutton
-  y = -20
+  y = -46
   label = Support SHXRKIE
   value = https://www.paypal.com/donate/?hosted_button_id=DS54NN6LCU5P6
   height = 20
@@ -143,11 +99,26 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
+  x = 4
+  width = 98
+  actionid = 18a9828f-02c7-4709-95bf-63a4943d92111638451009180
+  action = addbutton
+  y = -46
+  label = Report Bugs
+  value = https://github.com/LunaPixelStudios/Better-Minecraft/issues
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
   x = 106
   width = 20
-  actionid = aa0bf6cf-75e0-46ad-bdfc-68616cc3a32c1640666752150
+  actionid = c783c6d2-2f54-498a-87dd-eced0f53c92c1638451110609
   action = addbutton
-  y = -20
+  y = -46
   label = 
   value = https://discord.gg/8ZmhaPPbjE
   height = 20
@@ -157,10 +128,18 @@ customization {
   path = resourcepacks/Graphics/discord.png
   orientation = mid-centered
   x = 109
-  width = 14
+  width = 15
   action = addtexture
-  actionid = 956575ec-7d20-48e9-ba11-800e4a687c8b1640666774426
-  y = -18
-  height = 15
+  actionid = c1c2cbc0-8e70-4053-bd41-c2c5eff503c31638451135278
+  y = -44
+  height = 16
+}
+
+customization {
+  identifier = %id=504342%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = 2
 }
 

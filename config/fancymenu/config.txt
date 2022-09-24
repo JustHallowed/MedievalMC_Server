@@ -16,20 +16,14 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'false';
-B:showcustomizationbuttons = 'false';
-
-
-##[mainmenu]
-
-S:copyrightposition = 'bottom-right';
-S:copyrightcolor = '#ffffff';
 
 
 ##[loading]
 
-B:allowgameintroskip = 'false';
+B:allowgameintroskip = 'true';
 S:loadinganimationcolor = '#ffffffff';
-B:showanimationloadingstatus = 'true';
+B:showanimationloadingstatus = 'false';
+B:showcustomizationbuttons = 'false';
 S:gameintroanimation = '';
 B:preloadanimations = 'false';
 S:customgameintroskiptext = '';
@@ -38,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Medieval Minecraft [FORGE] 1.16.5';
+S:customwindowtitle = 'Medieval Minecraft [FABRIC] 1.19.2';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

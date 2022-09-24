@@ -1,8 +1,11 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screen.MainMenuScreen {
+net.minecraft.class_433 {
 }
 
-net.minecraft.client.gui.screen.IngameMenuScreen {
+com.bisecthosting.mods.bhmenu.BHMultiplayerScreen {
+}
+
+net.minecraft.class_442 {
 }
 

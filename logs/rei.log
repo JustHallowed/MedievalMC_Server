@@ -1,0 +1,405 @@
+[12:22:21] [main/INFO] [REI] Registered plugin provider CharmReiServerPlugin [charm] for REIPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider AdornReiServer [adorn] for REIPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider CharmReiServerPlugin [charm] for REIServerPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider AdornReiServer [adorn] for REIServerPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REIServerPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[12:22:21] [main/INFO] [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[12:22:35] [Worker-Main-6/DEBUG] [REI] Processed 0 tags in 7.400 μs for enhancedcelestials:lunar/event
+[12:22:35] [Worker-Main-10/DEBUG] [REI] Processed 0 tags in 8.300 μs for minecraft:worldgen/flat_level_generator_preset
+[12:22:35] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 11.70 μs for minecraft:worldgen/structure_set
+[12:22:35] [Worker-Main-9/DEBUG] [REI] Processed 0 tags in 69.40 μs for minecraft:worldgen/placed_feature
+[12:22:36] [Worker-Main-8/DEBUG] [REI] Processed 0 tags in 14.50 μs for minecraft:dimension_type
+[12:22:36] [Worker-Main-9/DEBUG] [REI] Processed 12 tags in 4.208 ms for minecraft:fluid
+[12:22:36] [Worker-Main-3/DEBUG] [REI] Processed 0 tags in 9.800 μs for minecraft:worldgen/world_preset
+[12:22:36] [Worker-Main-10/DEBUG] [REI] Processed 6 tags in 203.3 μs for minecraft:game_event
+[12:22:36] [Worker-Main-5/DEBUG] [REI] Processed 5 tags in 56.00 μs for minecraft:enchantment
+[12:22:36] [Worker-Main-11/DEBUG] [REI] Processed 0 tags in 37.00 μs for minecraft:worldgen/structure
+[12:22:36] [Worker-Main-10/DEBUG] [REI] Processed 1 tags in 187.3 μs for minecraft:painting_variant
+[12:22:36] [Worker-Main-4/DEBUG] [REI] Processed 63 tags in 986.9 μs for minecraft:entity_type
+[12:22:36] [Worker-Main-11/DEBUG] [REI] Processed 3 tags in 78.40 μs for minecraft:point_of_interest_type
+[12:22:36] [Worker-Main-2/DEBUG] [REI] Processed 0 tags in 548.2 μs for minecraft:worldgen/biome
+[12:22:36] [Worker-Main-2/DEBUG] [REI] Processed 2 tags in 27.00 μs for minecraft:cat_variant
+[12:22:36] [Worker-Main-6/DEBUG] [REI] Processed 7 tags in 261.7 μs for minecraft:banner_pattern
+[12:22:36] [Worker-Main-8/DEBUG] [REI] Processed 3 tags in 35.50 μs for minecraft:instrument
+[12:22:36] [Worker-Main-7/DEBUG] [REI] Processed 797 tags in 71.56 ms for minecraft:block
+[12:22:36] [Worker-Main-1/DEBUG] [REI] Processed 1079 tags in 45.07 ms for minecraft:item
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/" done in 1.681 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/" done in 16.10 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 10.50 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/AdornReiServer [adorn]/" done in 12.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/" done in 9.700 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/" done in 33.65 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/" done in 20.00 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/" done in 26.00 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 14.30 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/AdornReiServer [adorn]/" done in 28.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/" done in 11.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "pre-register/" done in 1.064 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/EntryTypeRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/EntryTypeRegistryImpl/" done in 435.4 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/" done in 12.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/RecipeManagerContextImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/RecipeManagerContextImpl/" done in 8.100 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/ItemComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/ItemComparatorRegistryImpl/" done in 40.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/FluidComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/FluidComparatorRegistryImpl/" done in 16.30 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/" done in 10.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/FluidSupportProviderImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/FluidSupportProviderImpl/" done in 33.80 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/" done in 2.131 ms
+[12:22:40] [main/INFO] [REI] Reloading Plugin Manager [REIPlugin] stage [START], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 446.5 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/FabricFluidAPISupportPlugin/" done in 22.50 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 19.24 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AdornReiServer [adorn]/" done in 24.30 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/CharmReiServerPlugin [charm]/" done in 14.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/" done in 21.98 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 13.80 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/FabricFluidAPISupportPlugin/" done in 13.30 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 12.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AdornReiServer [adorn]/" done in 12.70 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/CharmReiServerPlugin [charm]/" done in 12.20 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/" done in 846.0 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPlugin [roughlyenoughitems]/" done in 15.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/FabricFluidAPISupportPlugin/" done in 12.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 14.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AdornReiServer [adorn]/" done in 14.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/CharmReiServerPlugin [charm]/" done in 14.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/" done in 967.8 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 1.919 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/FabricFluidAPISupportPlugin/" done in 26.10 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 19.20 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AdornReiServer [adorn]/" done in 23.80 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/CharmReiServerPlugin [charm]/" done in 15.50 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/" done in 3.342 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 57.10 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/FabricFluidAPISupportPlugin/" done in 18.10 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 25.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AdornReiServer [adorn]/" done in 18.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/CharmReiServerPlugin [charm]/" done in 21.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/" done in 1.348 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 13.20 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/FabricFluidAPISupportPlugin/" done in 13.30 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 12.00 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AdornReiServer [adorn]/" done in 11.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/CharmReiServerPlugin [charm]/" done in 11.80 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/" done in 901.6 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPlugin [roughlyenoughitems]/" done in 1.269 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/FabricFluidAPISupportPlugin/" done in 309.0 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 16.30 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AdornReiServer [adorn]/" done in 37.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/CharmReiServerPlugin [charm]/" done in 11.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/" done in 2.415 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/EntryTypeRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/EntryTypeRegistryImpl/" done in 13.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/" done in 6.700 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/RecipeManagerContextImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/RecipeManagerContextImpl/" done in 6.600 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/ItemComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/ItemComparatorRegistryImpl/" done in 6.800 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/FluidComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/FluidComparatorRegistryImpl/" done in 7.600 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/" done in 8.000 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/FluidSupportProviderImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/FluidSupportProviderImpl/" done in 7.800 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/" done in 1.015 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/MenuInfoRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/MenuInfoRegistryImpl/" done in 8.700 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "start-reload/" done in 147.2 μs
+[12:22:40] [main/INFO] [REI] Reloading Plugin Manager [REIServerPlugin] stage [START], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 21.20 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/FabricFluidAPISupportPlugin/" done in 19.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 18.00 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AdornReiServer [adorn]/" done in 20.00 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/CharmReiServerPlugin [charm]/" done in 17.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/" done in 1.296 ms
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/MenuInfoRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/MenuInfoRegistryImpl/" done in 12.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "end-reload/" done in 244.8 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/" done in 353.8 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/FabricFluidAPISupportPlugin/" done in 14.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 12.80 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/AdornReiServer [adorn]/" done in 11.90 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/CharmReiServerPlugin [charm]/" done in 14.50 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/" done in 1.854 ms
+[12:22:40] [main/INFO] [REI] Reloaded Plugin Manager [REIPlugin] with 5 plugins in 81.85 ms.
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/" done in 29.40 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/FabricFluidAPISupportPlugin/" done in 15.50 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 12.60 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/AdornReiServer [adorn]/" done in 18.00 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/CharmReiServerPlugin [charm]/" done in 11.20 μs
+[12:22:40] [main/TRACE] [REI] [START] Reloading Section: "post-register/" done in 1.239 ms
+[12:22:40] [main/INFO] [REI] Reloaded Plugin Manager [REIServerPlugin] with 5 plugins in 5.699 ms.
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/" done in 23.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/" done in 19.80 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 14.80 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/AdornReiServer [adorn]/" done in 17.00 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/" done in 13.20 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/" done in 1.381 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultPlugin [roughlyenoughitems]/" done in 14.70 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/FabricFluidAPISupportPlugin/" done in 42.20 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 13.10 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/AdornReiServer [adorn]/" done in 10.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/CharmReiServerPlugin [charm]/" done in 9.200 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "pre-register/" done in 1.328 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/EntryTypeRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/EntryTypeRegistryImpl/" done in 15.20 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/" done in 32.40 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/RecipeManagerContextImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/RecipeManagerContextImpl/" done in 14.50 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/ItemComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/ItemComparatorRegistryImpl/" done in 9.100 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/FluidComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/FluidComparatorRegistryImpl/" done in 8.800 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/" done in 23.30 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/FluidSupportProviderImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/FluidSupportProviderImpl/" done in 7.900 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/" done in 1.097 ms
+[12:22:40] [main/INFO] [REI] Reloading Plugin Manager [REIPlugin] stage [END], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 44.90 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/FabricFluidAPISupportPlugin/" done in 26.70 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 20.90 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/AdornReiServer [adorn]/" done in 17.50 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/CharmReiServerPlugin [charm]/" done in 12.80 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/" done in 1.148 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 29.00 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/FabricFluidAPISupportPlugin/" done in 13.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 14.70 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/AdornReiServer [adorn]/" done in 14.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/CharmReiServerPlugin [charm]/" done in 12.00 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/" done in 871.8 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPlugin [roughlyenoughitems]/" done in 16.20 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/FabricFluidAPISupportPlugin/" done in 12.50 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 12.90 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/AdornReiServer [adorn]/" done in 23.80 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/CharmReiServerPlugin [charm]/" done in 17.70 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/" done in 866.0 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 11.90 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/FabricFluidAPISupportPlugin/" done in 15.40 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 13.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/AdornReiServer [adorn]/" done in 20.70 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/CharmReiServerPlugin [charm]/" done in 15.30 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/" done in 1.252 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 16.00 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/FabricFluidAPISupportPlugin/" done in 19.50 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 26.00 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/AdornReiServer [adorn]/" done in 12.50 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/CharmReiServerPlugin [charm]/" done in 11.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/" done in 931.2 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 55.02 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/FabricFluidAPISupportPlugin/" done in 16.60 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 9.600 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/AdornReiServer [adorn]/" done in 817.9 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/CharmReiServerPlugin [charm]/" done in 3.599 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/" done in 60.49 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPlugin [roughlyenoughitems]/" done in 17.00 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/FabricFluidAPISupportPlugin/" done in 13.30 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 10.40 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/AdornReiServer [adorn]/" done in 10.80 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/CharmReiServerPlugin [charm]/" done in 10.30 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/" done in 702.2 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/EntryTypeRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/EntryTypeRegistryImpl/" done in 6.600 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/" done in 5.900 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/RecipeManagerContextImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/RecipeManagerContextImpl/" done in 5.800 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/ItemComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/ItemComparatorRegistryImpl/" done in 7.800 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/FluidComparatorRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/FluidComparatorRegistryImpl/" done in 16.20 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/" done in 11.80 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/FluidSupportProviderImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/FluidSupportProviderImpl/" done in 11.30 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/" done in 1.184 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/MenuInfoRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/MenuInfoRegistryImpl/" done in 26.40 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "start-reload/" done in 165.3 μs
+[12:22:40] [main/INFO] [REI] Reloading Plugin Manager [REIServerPlugin] stage [END], registered 5 plugins: CharmReiServerPlugin [charm], AdornReiServer [adorn], DefaultRuntimePlugin [roughlyenoughitems], FabricFluidAPISupportPlugin, DefaultPlugin [roughlyenoughitems]
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPlugin [roughlyenoughitems]/" done in 11.23 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/FabricFluidAPISupportPlugin/" done in 18.90 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin [roughlyenoughitems]/" done in 10.50 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/AdornReiServer [adorn]/" done in 9.900 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/CharmReiServerPlugin [charm]/" done in 242.8 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/" done in 12.26 ms
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/MenuInfoRegistryImpl/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/MenuInfoRegistryImpl/" done in 5.900 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "end-reload/" done in 87.90 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/" done in 7.800 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/FabricFluidAPISupportPlugin/" done in 6.600 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 6.600 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/AdornReiServer [adorn]/" done in 6.100 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/CharmReiServerPlugin [charm]/" done in 24.20 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/" done in 485.8 μs
+[12:22:40] [main/INFO] [REI] Reloaded Plugin Manager [REIPlugin] with 5 plugins in 73.06 ms.
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultPlugin [roughlyenoughitems]/" done in 10.70 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/FabricFluidAPISupportPlugin/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/FabricFluidAPISupportPlugin/" done in 8.000 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/DefaultRuntimePlugin [roughlyenoughitems]/" done in 6.500 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/AdornReiServer [adorn]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/AdornReiServer [adorn]/" done in 7.900 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/CharmReiServerPlugin [charm]/"
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/CharmReiServerPlugin [charm]/" done in 7.400 μs
+[12:22:40] [main/TRACE] [REI] [END] Reloading Section: "post-register/" done in 596.2 μs
+[12:22:40] [main/INFO] [REI] Reloaded Plugin Manager [REIServerPlugin] with 5 plugins in 15.79 ms.

@@ -16,21 +16,19 @@ customization {
 
 customization {
   action = editprogressbar
-  barcolor = #8ecce0
+  y = -61
+  barcolor = #64d7fd
 }
 
 customization {
-  x = 3
-  textcolor = #8ecce0
-  action = editforgestatustext
-  y = 0
-}
-
-customization {
-  x = 3
-  textcolor = #8ecce0
-  action = editforgememoryinfo
-  y = 3
+  path = resourcepacks/Graphics/lps.png
+  orientation = bottom-left
+  x = 11
+  width = 98
+  action = addtexture
+  actionid = 9ff6ca7d-83d6-4492-ac84-833eb28a133e1660833185344
+  y = -9
+  height = 17
 }
 
 customization {
@@ -39,19 +37,8 @@ customization {
   x = 0
   width = 426
   action = addtexture
-  actionid = 75475b50-d33b-403a-a101-50906f2e8ed21661574908690
-  y = 0
-  height = 100
-}
-
-customization {
-  path = resourcepacks/Graphics/lps.png
-  orientation = bottom-right
-  x = -7
-  width = 92
-  action = addtexture
-  actionid = dd4a1659-0ac4-4638-bf5f-c062216c85901661574915919
+  actionid = 34f446c7-9e4c-4eec-bbfb-0743b3b4ce8d1661292082630
   y = -6
-  height = 16
+  height = 100
 }
 
