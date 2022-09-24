@@ -1,0 +1,8 @@
+{
+  // Where should Feywild features be generated if MythicBotany is installed?
+  // Allowed values: overworld, alfheim, both
+  "mythic_alfheim": "both",
+  
+  // Whether waystones should generate in Feywild structures.
+  "waystones": true
+}

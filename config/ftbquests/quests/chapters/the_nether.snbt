@@ -1,0 +1,258 @@
+{
+	id: "1741F423C5BCCCD3"
+	group: ""
+	order_index: 2
+	filename: "the_nether"
+	title: "The Nether"
+	icon: "minecraft:netherrack"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Enter the Nether Dimension"
+			icon: "minecraft:netherrack"
+			x: -4.5d
+			y: 0.0d
+			id: "1188DA3AC0F2DB91"
+			tasks: [{
+				id: "3520D5530EB1C064"
+				type: "dimension"
+				icon: "minecraft:netherrack"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [
+				{
+					id: "7897A73657C166C8"
+					type: "item"
+					item: {
+						id: "minecraft:written_book"
+						Count: 1b
+						tag: {
+							pages: ["{\"text\":\"You need to find the Altars and use the Nether Stars we claimed and defeat The Nether Keeper & The Awful Ghast before they become too powerfull.\"}"]
+							RepairCost: 0
+							title: "The Nether"
+							author: "SharkieWasBanned"
+							display: {
+								Name: "{\"text\":\"The Nether is in Danger?!\"}"
+							}
+						}
+					}
+				}
+				{
+					id: "2608B6EFD7B87386"
+					type: "item"
+					item: {
+						id: "naturescompass:naturescompass"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			icon: "stalwart_dungeons:keeping_castle_spawner"
+			x: 1.5d
+			y: 0.0d
+			description: ["Keeping Castle (spawn in Nether Waste and Crimson Forest)"]
+			optional: true
+			id: "41F659AE9D570ABD"
+			tasks: [{
+				id: "4CEFBA5E9577BF9B"
+				type: "kill"
+				title: "Kill The Nether Keeper"
+				icon: "stalwart_dungeons:keeping_castle_spawner"
+				entity: "stalwart_dungeons:nether_keeper"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "77C5D17CD160B988"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+				}
+				{
+					id: "03708C095C871357"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			description: ["Summons like normal"]
+			dependencies: ["01A8BD2E60B584D7"]
+			id: "0C11E180CFB09858"
+			tasks: [{
+				id: "22A6AC990852CF78"
+				type: "kill"
+				title: "Kil The Wither"
+				icon: "minecraft:wither_skeleton_skull"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "070E5F423AF2D868"
+					type: "item"
+					item: "upgradednetherite:wither_upgraded_netherite_ingot"
+				}
+				{
+					id: "7BB82B36052BF5B2"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			description: ["Awful Dungeon (Soul Sand Valley and Warped Forest)"]
+			dependencies: ["252ED51B2A054407"]
+			id: "01A8BD2E60B584D7"
+			tasks: [{
+				id: "2A621CA75BD06C23"
+				type: "kill"
+				title: "Kil The Awful Ghast"
+				icon: "stalwart_dungeons:awful_dungeon_spawner"
+				entity: "stalwart_dungeons:awful_ghast"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "70972A4CA44A5EDC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "052E7C8E59D99213"
+					type: "item"
+					item: "undergarden:catalyst"
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			optional: true
+			id: "1F8FD0645FFBAD58"
+			tasks: [{
+				id: "57E0CAD018608DF1"
+				type: "kill"
+				title: "Kill a Mutant Hoglin"
+				icon: "nethers_delight:hoglin_hide"
+				entity: "mutantmore:mutant_hoglin"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "0DB5B8B0A20321EA"
+					type: "item"
+					item: "nethers_delight:hoglin_mount"
+				}
+				{
+					id: "3F6D5A946C486BBF"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			optional: true
+			id: "2137B31F9406AFD4"
+			tasks: [{
+				id: "1B2D6555346CC8FD"
+				type: "kill"
+				title: "Kill a Mutant Blaze"
+				icon: "mutantmore:mutant_blaze_core"
+				entity: "mutantmore:mutant_blaze"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "7FC8E84BD932D353"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "2194682A498FD2D2"
+					type: "item"
+					item: "upgradednetherite:fire_upgraded_netherite_ingot"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 0.0d
+			optional: true
+			id: "21E20CEFE7E42B03"
+			tasks: [{
+				id: "5AA9ED7534A11624"
+				type: "kill"
+				title: "Kill a Mutant Wither Skeletom"
+				icon: {
+					id: "mutantmore:mutant_wither_skeleton_skull"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "mutantmore:mutant_wither_skeleton"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "0BFC8A68EBD48533"
+					type: "item"
+					item: {
+						id: "mutantmore:withered_claymore"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0B4B0D4BAD63B583"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			description: ["Found anywhere in the Nether. Just roam around until the boss bar comes up. Located in the Soul Black Smith."]
+			dependencies: ["1188DA3AC0F2DB91"]
+			id: "252ED51B2A054407"
+			tasks: [{
+				id: "352E7528B8B77CC0"
+				type: "kill"
+				title: "Kill the Netherite Monstrosity"
+				icon: {
+					id: "cataclysm:monstrous_helm"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "cataclysm:netherite_monstrosity"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "60209186CE595BA9"
+					type: "item"
+					item: "minecraft:nether_star"
+				}
+				{
+					id: "35238122007EF420"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}

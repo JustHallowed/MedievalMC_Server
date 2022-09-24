@@ -1,0 +1,8 @@
+{
+  "inventory": {
+    "0:0": "{id:\"minecraft:stone_sword\",Count:1b,tag:{Damage:0}}",
+    "0:1": "{id:\"ftbquests:book\",Count:1b}",
+    "2:0": "{id:\"spartanshields:shield_basic_stone\",Count:1b,tag:{Damage:0}}"
+  },
+  "wipeBlacklist": []
+}

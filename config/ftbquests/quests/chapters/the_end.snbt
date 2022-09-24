@@ -1,0 +1,280 @@
+{
+	id: "50EEC609E833AB5F"
+	group: ""
+	order_index: 9
+	filename: "the_end"
+	title: "The End"
+	icon: "minecraft:end_portal_frame"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			id: "4D36AAFE17F5CD9C"
+			tasks: [{
+				id: "444AC080F3243355"
+				type: "dimension"
+				title: "Enter The End Dimension"
+				icon: "minecraft:end_portal_frame"
+				dimension: "minecraft:the_end"
+			}]
+			rewards: [
+				{
+					id: "7B2239F7579DF766"
+					type: "item"
+					item: "minecraft:end_stone"
+					count: 64
+				}
+				{
+					id: "4546AA8D1782E314"
+					type: "item"
+					item: {
+						id: "minecraft:written_book"
+						Count: 1b
+						tag: {
+							pages: ["{\"text\":\"It is told that there is a Creature more powerfull thatn the Ender Dragon!\"}"]
+							RepairCost: 0
+							title: "The End"
+							author: "SharkieWasBanned"
+							display: {
+								Name: "{\"text\":\"This is not The End?\"}"
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			icon: "minecraft:dragon_head"
+			x: 1.5d
+			y: 0.0d
+			dependencies: ["4D36AAFE17F5CD9C"]
+			id: "2A51F2BA00FCA9DF"
+			tasks: [{
+				id: "412B85684482E982"
+				type: "kill"
+				title: "Kill The Ender Dragon"
+				entity: "minecraft:ender_dragon"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "141F89B6238B7A86"
+					type: "item"
+					item: "iceandfire:dragonegg_black"
+				}
+				{
+					id: "498418402CC89A48"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			title: "Collect a Void Crystal"
+			icon: "stalwart_dungeons:void_crystal"
+			x: 9.0d
+			y: 0.0d
+			description: ["Use TNT to defeat him"]
+			optional: true
+			id: "243DD38EBFA8CA69"
+			tasks: [{
+				id: "649EAE2830C0B5CA"
+				type: "item"
+				item: "stalwart_dungeons:void_crystal"
+			}]
+			rewards: [
+				{
+					id: "599CC92F2E38568B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3A9F710643608453"
+					type: "item"
+					item: {
+						id: "dungeons_gear:voidcaller"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1205664C26FF5144"
+					type: "item"
+					item: "eidolon:void_amulet"
+				}
+			]
+		}
+		{
+			x: 10.5d
+			y: 0.0d
+			description: ["Capsid and Mosquito Crimson Lava can create the Void Worm"]
+			dependencies: ["0A3378F1077CEBF8"]
+			id: "1839FE2EA7937C34"
+			tasks: [{
+				id: "3D9577E7AC16A0C6"
+				type: "kill"
+				title: "Summon and Kill The Void Worm"
+				icon: "alexsmobs:void_worm_eye"
+				entity: "alexsmobs:void_worm"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "52AF9BBAA8713450"
+					type: "item"
+					item: {
+						id: "patchouli:guide_book"
+						Count: 1b
+						tag: {
+							"patchouli:book": "theabyss:abyssbookitem"
+						}
+					}
+				}
+				{
+					id: "3594AD2BE0CD8021"
+					type: "item"
+					item: "theabyss:unstable_obsidian"
+					count: 12
+				}
+				{
+					id: "66FD07E86A91A18E"
+					type: "item"
+					item: "sons_of_sins:rotten_apple"
+					count: 16
+				}
+				{
+					id: "5AD3040B60DCA4B9"
+					type: "item"
+					item: {
+						id: "theabyss:the_abyss"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			dependencies: ["2A51F2BA00FCA9DF"]
+			id: "7CB4A8E2B266BCF3"
+			tasks: [{
+				id: "6ED0F4A584CAEFD1"
+				type: "kill"
+				title: "Kill a Mutant Enderman"
+				icon: "minecraft:ender_eye"
+				entity: "mutantbeasts:mutant_enderman"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "27A8857C67E7F003"
+					type: "item"
+					item: "minecraft:nether_star"
+				}
+				{
+					id: "39FEE3FB43B9C72A"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			optional: true
+			id: "3DC054878E68C0A7"
+			tasks: [{
+				id: "6D41BDC739DCAB05"
+				type: "kill"
+				title: "Kill a Mutant Shulker"
+				icon: "mutantmore:mutant_shulker_box"
+				entity: "mutantmore:mutant_shulker"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "2C72480CFCF88D58"
+					type: "item"
+					item: "forbidden_arcanus:end_crystal_gem"
+				}
+				{
+					id: "1653CCB1367548F3"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 0.0d
+			description: ["Found in the End in the Ruined Citadel"]
+			dependencies: ["7CB4A8E2B266BCF3"]
+			id: "2A991A7A07F48137"
+			tasks: [{
+				id: "717EFC6BD2CDE31C"
+				type: "kill"
+				title: "Kill a Ender Golem"
+				icon: "cataclysm:void_core"
+				entity: "cataclysm:ender_golem"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "7EA89374CC2C192B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1E9F033D56BBD65D"
+					type: "item"
+					item: {
+						id: "cataclysm:zweiender"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 7.5d
+			y: 0.0d
+			description: ["Found in the End in the Ruined Citadel"]
+			dependencies: ["2A991A7A07F48137"]
+			id: "0A3378F1077CEBF8"
+			tasks: [{
+				id: "7DF7335446AA6AAF"
+				type: "kill"
+				title: "Kill the Ender Guardian"
+				icon: "cataclysm:ender_guardian_spawner"
+				entity: "cataclysm:ender_guardian"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "0248C687FC087146"
+					type: "item"
+					item: "alexsmobs:mosquito_larva"
+				}
+				{
+					id: "26A953E2EB71597B"
+					type: "item"
+					item: "alexsmobs:capsid"
+				}
+				{
+					id: "67D596B532253944"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}

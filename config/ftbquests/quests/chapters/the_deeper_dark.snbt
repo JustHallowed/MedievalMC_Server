@@ -1,0 +1,137 @@
+{
+	id: "2A9E0DFD026D3C82"
+	group: ""
+	order_index: 1
+	filename: "the_deeper_dark"
+	title: "The Deeper Dark"
+	icon: "dead_guys_untitled_deep_dark_:cold_deep_stone"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: 0.5d
+			description: ["The Sculk o' Finder can only find Mobs close range"]
+			id: "21DA0BB0C302BCE6"
+			tasks: [{
+				id: "58A06E50D2A9BDDB"
+				type: "dimension"
+				title: "Enter The Deeper Dark"
+				icon: "dead_guys_untitled_deep_dark_:unactivated_lightn_dark_block"
+				dimension: "dead_guys_untitled_deep_dark_:deep_darky"
+			}]
+			rewards: [
+				{
+					id: "38580F43D1C1DA8E"
+					type: "item"
+					item: {
+						id: "minecraft:written_book"
+						Count: 1b
+						tag: {
+							pages: ["{\"text\":\"Welcome to a different Deep Dark. This Deep Dark Dimension is suppose to recreate the Deeper Dark in a much more different way. The Caves are rare but use the Minimap to locate them.\\nThere are treasures and dungeons to explore but they are hard to find.\"}"]
+							RepairCost: 0
+							title: "Deeper Dark"
+							author: "SharkieLPS"
+							display: {
+								Name: "{\"text\":\"A Different Deeper Dark\"}"
+							}
+						}
+					}
+				}
+				{
+					id: "018AE87B06742734"
+					type: "item"
+					item: "dead_guys_untitled_deep_dark_:sculk_o_finder"
+				}
+				{
+					id: "6ECBAA55E85E7527"
+					type: "item"
+					item: "dead_guys_untitled_deep_dark_:unactivated_darkn_light"
+				}
+			]
+		}
+		{
+			x: 3.5d
+			y: 0.5d
+			dependencies: ["21DA0BB0C302BCE6"]
+			id: "603A065E8111BF9A"
+			tasks: [{
+				id: "6C5452C0EE584C48"
+				type: "kill"
+				title: "Kill the bone Warden variant"
+				icon: "dead_guys_untitled_deep_dark_:sculk_stab"
+				entity: "dead_guys_untitled_deep_dark_:warden_variant_3"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "6C32E6E0A127F7A3"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+				}
+				{
+					id: "2DD79267158FEE4E"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			optional: true
+			id: "5477B6085846227F"
+			tasks: [{
+				id: "6B54F6AAD6147009"
+				type: "kill"
+				title: "Kill the open mouth Warden variant"
+				icon: "dead_guys_untitled_deep_dark_:miteasoma"
+				entity: "dead_guys_untitled_deep_dark_:warden_variant_2"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "3D541FC990403469"
+					type: "item"
+					item: "drinkbeer:beer_barrel"
+				}
+				{
+					id: "2F268BA7678D6D6D"
+					type: "item"
+					item: "drinkbeer:beer_mug"
+				}
+				{
+					id: "173E2E8A4CE087D1"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 0.5d
+			optional: true
+			id: "2F8A2EE284DECD66"
+			tasks: [{
+				id: "3100BF98A1A6149C"
+				type: "kill"
+				title: "Kill the big Warden variant"
+				icon: "dead_guys_untitled_deep_dark_:warden_antler"
+				entity: "dead_guys_untitled_deep_dark_:warden"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "1F2BD5D04DF63C2F"
+					type: "item"
+					item: "minecraft:golden_apple"
+				}
+				{
+					id: "5C59C0C1E5116B7F"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}

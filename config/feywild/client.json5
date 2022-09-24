@@ -1,0 +1,7 @@
+{
+  // Whether Feywild should replace the main menu
+  "replace_menu": false,
+  
+  // Whether tree particles should spawn.
+  "tree_particles": true
+}

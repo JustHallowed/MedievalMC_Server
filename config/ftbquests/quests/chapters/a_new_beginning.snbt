@@ -1,0 +1,443 @@
+{
+	id: "199DB27DAA5DBED8"
+	group: ""
+	order_index: 0
+	filename: "a_new_beginning"
+	title: "Overworld"
+	icon: "minecraft:grass_block"
+	default_quest_shape: "square"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "The Beginning!"
+			icon: "minecraft:grass_block"
+			x: -3.5d
+			y: 1.0d
+			id: "7AB5EA68B6C4B8C8"
+			tasks: [{
+				id: "7CD52E1D2BAF4A81"
+				type: "dimension"
+				title: "A Brand New Experience Awaits"
+				icon: "minecraft:grass_block"
+				dimension: "minecraft:overworld"
+			}]
+			rewards: [
+				{
+					id: "06D9F3B420CE54A5"
+					type: "item"
+					item: {
+						id: "survive:purified_water_canteen"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "3590463EFCF6CB89"
+					type: "item"
+					item: {
+						id: "treasurebags:treasure_bag"
+						Count: 1b
+						tag: {
+							silentlib.LootContainer: {
+								LootTable: "treasurebags:bags/spawn"
+								BagType: "treasurebags:spawn"
+							}
+						}
+					}
+				}
+				{
+					id: "217D881D05AAA40C"
+					type: "item"
+					item: {
+						id: "minecraft:written_book"
+						Count: 1b
+						tag: {
+							pages: ["{\"text\":\"Your New Medieval Adventure Awaits!\\n\\nThis Modpack is filled to the brim with so much to content explore and enjoy.\\n\\nPlease use the Quests as a Guide to the New Dimensions and not skip any.\\n\\nYour Kingdom awaits! \"}"]
+							RepairCost: 0
+							author: "SharkieWasBanned"
+							display: {
+								Name: "{\"text\":\"The Start of a New Adventure\"}"
+							}
+							title: "Adventure"
+							resolved: 1b
+						}
+					}
+				}
+				{
+					id: "4F0B17C36C10A943"
+					type: "item"
+					item: "alexsmobs:animal_dictionary"
+				}
+				{
+					id: "119762673AD1E729"
+					type: "item"
+					item: "fd_cookbook:cook_book"
+				}
+				{
+					id: "6546F9E59B2C9EB0"
+					type: "item"
+					item: "eidolon:codex"
+				}
+			]
+		}
+		{
+			title: "Obtain a Blue Journal from the Gatekeeper"
+			x: 8.5d
+			y: 1.0d
+			dependencies: ["7AB5EA68B6C4B8C8"]
+			dependency_requirement: "all_started"
+			id: "4BB003FB5E9C99DB"
+			tasks: [{
+				id: "456818E430F3986A"
+				type: "item"
+				item: "blue_skies:blue_journal"
+			}]
+			rewards: [
+				{
+					id: "1D32AA39EAF32555"
+					type: "item"
+					item: "blue_skies:turquoise_stonebrick"
+					count: 12
+				}
+				{
+					id: "4EC600B7566488A0"
+					type: "item"
+					item: "blue_skies:lunar_stonebrick"
+					count: 12
+				}
+				{
+					id: "72AB18773D1DAD74"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 7.0d
+			y: 1.0d
+			description: ["(FROST-mah)Frostmaws are dangerous beasts found rarely in snowy areas. Their massive size, impressive speed, and powerful ice breath make them near-impossible opponents. If, on your travels, you encounter one sleeping in your path, it's likely best to take a different route and let it lay. The beast guards a precious ice crystal that can unleash pure winter energy when wielded."]
+			id: "6C3B01A7B7F1E9D3"
+			tasks: [{
+				id: "34786D2B0FE3FCC1"
+				type: "kill"
+				title: "Kill The Frostmaw"
+				icon: {
+					id: "mowziesmobs:ice_crystal"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "mowziesmobs:frostmaw"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "4D24CD56FE571454"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5AA347FC83DB4FB8"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:hecate"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: 1.0d
+			description: ["(BA-rah-koh)Barako is the chief of the Barakoa tribe, residing in a stationary seat upon a throne in Barakoa villages. He draws his power from the sun, calling forth sunstrikes, solar flares, and massive solar beams. He can also create Barakoa followers - including healers called Barakoaya - from masks to defend him during combat. As such, his masked children revere him as a god. Unequipped travelers should keep their distance from his villages, lest they be smitten by his heliomancy."]
+			id: "08D7F64175B84606"
+			tasks: [{
+				id: "7850C5D106B3CE52"
+				type: "kill"
+				title: "Kill Barako"
+				icon: "mowziesmobs:barako_mask"
+				entity: "mowziesmobs:barako"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "791C0EEEF083FACE"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "56CC74E4311CF3A9"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:apollo"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: 1.0d
+			description: ["(FER-us RAWT-nawt)Lost underground many years ago, these heavily armored knights are not men nor are they statues. Are they guarding something? They have forgotten what. Are they waiting for something? They have forgotten when. Are they mourning someone? They have forgotten whom. All they know is to slay those who approach their chambers. There is only one way to damage a Ferrous Wroughtnaut; its weakness is for you to discover."]
+			id: "4B7FCCD488B4ED19"
+			tasks: [{
+				id: "3C9A81C9F7CC6C9B"
+				type: "kill"
+				title: "Kill The Wroughtnaut"
+				icon: "mowziesmobs:wrought_helmet"
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "47EE33982F984195"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "412DD1F00A6A337A"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:ares"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 13.0d
+			y: 1.0d
+			description: ["Lightning dragons can spawn in Jungle, Savanna, and Badlands biomes. Younger dragons are found on small roosts on the surface (Stages 1-3), whereas older ones (Stage 4 and rarely Stage 5) lurk in caverns beneath the ground."]
+			dependencies: [
+				"6B35570508C96EB1"
+				"4BB003FB5E9C99DB"
+			]
+			id: "2828C683211249D8"
+			tasks: [{
+				id: "39524051078E248C"
+				type: "kill"
+				title: "Kill a Lightning Dragon"
+				icon: "iceandfire:lightning_dragon_heart"
+				entity: "iceandfire:lightning_dragon"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "1942B05CE271D22C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "59014D9651D3494C"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:zeus"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 11.5d
+			y: 1.0d
+			description: ["Ice dragons can spawn in any biome that has a temperature of -0.5 or below. Younger dragons (Stages 1-3) are found on small roosts on the surface, whereas older ones (Stage 4 and rarely Stage 5) lurk in subterranean caverns."]
+			id: "2BC09EFED0153000"
+			tasks: [{
+				id: "78F39981D003FF1F"
+				type: "kill"
+				title: "Kill a Ice Dragon"
+				icon: "iceandfire:ice_dragon_heart"
+				entity: "iceandfire:ice_dragon"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "7016CBFBB9590D27"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "404DB9547F44B2F4"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:persephone"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 1.0d
+			description: ["Fire dragons can spawn in any biome that has a temperature above -0.5, save for Jungles, Savannas, and Badlands. Younger dragons are found on small roosts on the surface (Stages 1-3), whereas older ones (Stage 4 and rarely Stage 5) lurk in caverns beneath the ground."]
+			id: "49E9728582747C9C"
+			tasks: [{
+				id: "04DC70A876412E42"
+				type: "kill"
+				title: "Kill a Fire Dragon"
+				icon: "iceandfire:fire_dragon_heart"
+				entity: "iceandfire:fire_dragon"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "66067000A8B0EB44"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "0A029602C0FF40EF"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:hephaestus"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: 1.0d
+			description: ["This boss spawns in a new strucutre, the Sacred Ruins, spawns in Swamp biomes."]
+			id: "30FD6C4068B250EB"
+			tasks: [{
+				id: "25F1289D1398A9FA"
+				type: "kill"
+				title: "Kill the Toad Sentinel"
+				icon: "toadterror:toad_eye"
+				entity: "toadterror:toad_sentinel"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "3689127F024F7A0B"
+					type: "item"
+					item: "whatareyouvotingfor:glare_spawn_egg"
+				}
+				{
+					id: "371C0DB56B44616E"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: -0.5d
+			y: 1.0d
+			description: ["Goblin Castles can be randomly found across the World"]
+			id: "2999F1FFC8DE6D51"
+			tasks: [{
+				id: "07DB92045D6E545B"
+				type: "kill"
+				title: "Kill the Goblin King"
+				icon: {
+					id: "goblinsanddungeons:goblin_crown"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "goblinsanddungeons:goblin_king"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "5ADC5D5050D78B1D"
+					type: "item"
+					item: "whatareyouvotingfor:allay_spawn_egg"
+				}
+				{
+					id: "5AF0E75FE003E5E6"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 1.0d
+			description: ["Located in the Ice Maze, eneds to be summoned"]
+			id: "0BA6A8DE38C993AA"
+			tasks: [{
+				id: "299F26B8AE8A9079"
+				type: "kill"
+				title: "Kill the Ghost of Captain Cornelia"
+				icon: {
+					id: "ob_aquamirae:three_bolt_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "ob_aquamirae:drowned_captain"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "7D378C5736C56CA1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "52C9B6B5FC914B16"
+					type: "item"
+					item: {
+						id: "rpggods:altar"
+						Count: 1b
+						tag: {
+							altar: "greek:poseidon"
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Craft a Light n' Dark Chest"
+			x: -2.0d
+			y: 1.0d
+			description: ["Place at bedrock level and right click the chest with a diamond"]
+			id: "6B35570508C96EB1"
+			tasks: [{
+				id: "3C650CFDCB0910F9"
+				type: "item"
+				item: "dead_guys_untitled_deep_dark_:unactivated_lightn_dark_block"
+			}]
+			rewards: [
+				{
+					id: "27646F9D868B5E60"
+					type: "item"
+					item: "minecolonies:supplycampdeployer"
+				}
+				{
+					id: "44F693336CC5BA23"
+					type: "item"
+					item: "bountiful:bountyboard"
+				}
+				{
+					id: "0827D1CFF90A5D5A"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}

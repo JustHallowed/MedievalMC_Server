@@ -1,0 +1,160 @@
+{
+	id: "53FAF0A851398EA6"
+	group: ""
+	order_index: 10
+	filename: "the_last_chapter"
+	title: "The Abyss"
+	icon: {
+		id: "patchouli:guide_book"
+		Count: 1b
+		tag: {
+			"patchouli:book": "theabyss:abyssbookitem"
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.5d
+			y: -0.5d
+			id: "42CDDCDE36FD0351"
+			tasks: [{
+				id: "163E6695206A258E"
+				type: "dimension"
+				title: "Enter The Abyss"
+				icon: "theabyss:unstable_obsidian"
+				dimension: "theabyss:the_abyss"
+			}]
+			rewards: [
+				{
+					id: "16AABE6492371AF3"
+					type: "item"
+					item: {
+						id: "minecraft:written_book"
+						Count: 1b
+						tag: {
+							pages: ["{\"text\":\"The Abyss is a very dangerous place, you will not find peace here. There is a dark and mysterious person who do not want to be disturbed.\\n\\nKill the Nighblade if you dare!\"}"]
+							title: "The Abyss"
+							author: "SharkieLPS"
+						}
+					}
+				}
+				{
+					id: "69FC3892CA3107C2"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+		{
+			x: -1.0d
+			y: -0.5d
+			id: "7A7BC9ED0BE5D709"
+			tasks: [{
+				id: "66F13D8BD1F9E7D1"
+				type: "kill"
+				title: "Kill an Elder"
+				icon: "theabyss:elder_eye"
+				entity: "theabyss:elder"
+				value: 1L
+			}]
+			rewards: [{
+				id: "7DB1395EA8B95CA2"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 0.5d
+			y: -0.5d
+			id: "0040EE8193E308E6"
+			tasks: [{
+				id: "64716D2C45D2FF0A"
+				type: "kill"
+				title: "Kill the Magician"
+				entity: "theabyss:magician"
+				value: 1L
+			}]
+			rewards: [{
+				id: "43B2DCDDEAEE1459"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 2.0d
+			y: -0.5d
+			id: "2D4662A47AF18D0B"
+			tasks: [{
+				id: "712E7AD054C2C639"
+				type: "kill"
+				title: "Kill a Crystal Golem"
+				icon: "theabyss:crystal_hand"
+				entity: "theabyss:crystal_golem"
+				value: 1L
+			}]
+			rewards: [{
+				id: "4BB7450611B2F51D"
+				type: "xp"
+				xp: 100
+			}]
+		}
+		{
+			x: 3.5d
+			y: -0.5d
+			description: ["To summon Nightblade all the Brick Stone Pillars in the Nightblade Summoning Structure needs to be lit up. It can be lit up using Soul Heart. Once all Brick Stone Pillars are lit you must place Eye Of Abyss on the Night Altar. Once the Eye Of Abyss is placed lightning will strike the Night Altar and Nightblade would be summoned."]
+			dependencies: ["42CDDCDE36FD0351"]
+			id: "13D10E10EC9B37CE"
+			tasks: [{
+				id: "2D429080BD38C906"
+				type: "kill"
+				title: "Kill Nightblade"
+				icon: {
+					id: "theabyss:abyss_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "theabyss:night_blade_boss_clone"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "022465347EBE44B1"
+					type: "item"
+					item: "theabyss:slime_stage_4"
+					count: 10
+				}
+				{
+					id: "6906BA256DD1ECD8"
+					type: "item"
+					item: {
+						id: "theabyss:totem_of_abyss"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "60B56B2BFD0211C0"
+					type: "item"
+					item: "theabyss:incorythe_gem"
+					count: 10
+				}
+				{
+					id: "4FDA0BB77FB87186"
+					type: "item"
+					item: "theabyss:unorithe_ingot"
+					count: 2
+				}
+				{
+					id: "3FC89BACF83E33D7"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}

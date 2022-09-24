@@ -1,0 +1,7 @@
+Right click "start.ps1" and click on "Run with PowerShell" and follow instructions like usual.
+
+Why? - Instead of running the script on a .bat file it runs on PowerShell now.
+
+Why? - I use a program to create ServerPacks and they switched to this instead.
+
+Java 8 Required to work, Unisntall Java 11 above if you have issues

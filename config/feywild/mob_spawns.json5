@@ -1,0 +1,94 @@
+{
+  "autumn_pixie": {
+  
+    // Biome types where the entity should spawn
+    "biomes": [
+      "SWAMP",
+      "MUSHROOM",
+      "SPOOKY",
+      "FOREST",
+      "MAGICAL"
+    ],
+    
+    // Maximum entities to spawn in a group group
+    // Minimum: 1
+    "max": 1,
+    
+    // Minimum entities to spawn in a group group
+    // Minimum: 1
+    "min": 1,
+    
+    // Autumn pixie spawn chance
+    // Minimum: 0
+    "weight": 20
+  },
+  
+  "dwarf_blacksmith": {
+  
+    // Maximum entities to spawn in a group group
+    // Minimum: 1
+    "max": 1,
+    
+    // Minimum entities to spawn in a group group
+    // Minimum: 1
+    "min": 1,
+    
+    // Dwarf blacksmith spawn chance
+    // Minimum: 0
+    "weight": 20
+  },
+  
+  "spring_pixie": {
+  
+    // Biome types where the entity should spawn
+    "biomes": [ "RIVER", "FOREST", "PLAINS", "MAGICAL" ],
+    
+    // Maximum entities to spawn in a group group
+    // Minimum: 1
+    "max": 1,
+    
+    // Minimum entities to spawn in a group group
+    // Minimum: 1
+    "min": 1,
+    
+    // Spring pixie spawn chance
+    // Minimum: 0
+    "weight": 20
+  },
+  
+  "summer_pixie": {
+  
+    // Biome types where the entity should spawn
+    "biomes": [ "LUSH", "HOT", "MAGICAL" ],
+    
+    // Maximum entities to spawn in a group group
+    // Minimum: 1
+    "max": 1,
+    
+    // Minimum entities to spawn in a group group
+    // Minimum: 1
+    "min": 1,
+    
+    // Summer pixie spawn chance
+    // Minimum: 0
+    "weight": 20
+  },
+  
+  "winter_pixie": {
+  
+    // Biome types where the entity should spawn
+    "biomes": [ "DEAD", "SNOWY", "COLD", "MAGICAL" ],
+    
+    // Maximum entities to spawn in a group group
+    // Minimum: 1
+    "max": 1,
+    
+    // Minimum entities to spawn in a group group
+    // Minimum: 1
+    "min": 1,
+    
+    // Winter pixie spawn chance
+    // Minimum: 0
+    "weight": 20
+  }
+}
